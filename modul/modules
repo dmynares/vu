@@ -142,25 +142,25 @@ $ {
 };
 $ {
     $pevztlh
-} = array("locale" => "in_ID", "task_extra_info" => "", "task_name" => "daily_checkin_01", "timezone" => "GMT+07:00");
+} = array("locale" => "en_PH", "task_extra_info" => "", "task_name" => "daily_checkin_01", "timezone" => "GMT+08:00");
 $ {
     $ {
         "GLOBALS"
     }
     ["outjrtv"]
-} = array("latitude" => "-6.885519", "locale" => "in_ID", "longitude" => "107.6228", "task_extra_info" => "", "task_name" => "vip_reward_01", "timezone" => "GMT+07:00");
+} = array("latitude" => "14.7359327", "locale" => "en_PH", "longitude" => "121.06123630000002", "task_extra_info" => "", "task_name" => "vip_reward_01", "timezone" => "GMT+08:00");
 $bgpwtrnusw = "body";
 $psumdrz = "jbody";
 $ {
     $dkejdmyg
-} = array("latitude" => "-6.885519", "locale" => "in_ID", "longitude" => "107.6228", "task_extra_info" => "", "task_name" => "vip_milestone_01", "timezone" => "GMT+07:00");
+} = array("latitude" => "14.7359327", "locale" => "en_PH", "longitude" => "121.06123630000002", "task_extra_info" => "", "task_name" => "vip_milestone_01", "timezone" => "GMT+08:00");
 $egnvhucjoyre = "milstone2";
 $ {
     $ {
         "GLOBALS"
     }
     ["gnjnxdlpkp"]
-} = array("latitude" => "-6.885519", "locale" => "in_ID", "longitude" => "107.6228", "task_extra_info" => "", "task_name" => "treasure_box_01", "timezone" => "GMT+07:00");
+} = array("latitude" => "14.7359327", "locale" => "en_PH", "longitude" => "121.06123630000002", "task_extra_info" => "", "task_name" => "treasure_box_01", "timezone" => "GMT+08:00");
 $ {
     "GLOBALS"
 }
