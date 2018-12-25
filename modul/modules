@@ -514,7 +514,7 @@ while (true) {
         }
         ["qmfwpepfibz"]
     }
-    ["message"] == "complete full") {
+    ["message"] == "Completed") {
         $ {
             "GLOBALS"
         }
@@ -927,7 +927,7 @@ echo $ {
         "GLOBALS"
     }
     ["naiqrqvfbkr"]
-} . "complete full" . $ {
+} . "Completed" . $ {
     $ihpjwuoirqs
 };
 ?>
