@@ -1,2 +1,2770 @@
-<?php ${"G\x4cO\x42\x41L\x53"}["y\x79\x6b\x6cg\x61n"]="\x6c\x65\x76e\x6c";${"G\x4c\x4f\x42A\x4c\x53"}["\x71\x64\x6b\x67\x74\x6ccv\x69\x73"]="re\x77\x61\x72\x64";${"\x47\x4cO\x42\x41\x4c\x53"}["\x74\x69\x70\x70\x6dy\x70k\x63\x6e\x73k"]="j\x73v\x69\x64\x65\x6f";${"G\x4c\x4f\x42\x41\x4c\x53"}["\x69weeg\x6c\x66\x65"]="\x6a\x73\x6d\x69\x6c\x73\x74\x6f\x6e\x65\x32";${"G\x4c\x4f\x42A\x4cS"}["v\x62n\x78\x6bo\x6a"]="\x6asm\x69l\x73ton\x65";${"G\x4cOBA\x4c\x53"}["\x6d\x72eq\x6c\x65w\x67ne\x78"]="\x63\x6f\x64\x65";${"\x47\x4cOBA\x4c\x53"}["r\x6e\x75w\x72\x6dn"]="v\x69pce\x6b\x69\x6e";${"\x47LO\x42ALS"}["\x6d\x6b\x69\x61e\x64"]="\x6d\x73\x67";${"\x47\x4cO\x42A\x4c\x53"}["\x6cxx\x73\x6b\x62\x69y\x76\x65"]="\x6asa\x62\x73\x65n";${"G\x4c\x4fBAL\x53"}["lw\x65\x79\x62hs\x76"]="\x6as";${"\x47\x4cO\x42\x41\x4c\x53"}["\x6bn\x78\x70\x70\x73\x68\x74\x75sj"]="r\x65\x64";${"\x47\x4cOBALS"}["\x63tm\x70\x70\x71e\x6b"]="\x63p\x6f\x69n";${"G\x4c\x4f\x42\x41L\x53"}["p\x70\x71\x67m\x77y\x74r"]="\x6c\x6f\x67\x69\x6e";${"\x47L\x4fB\x41\x4cS"}["e\x66\x61\x6er\x64q\x62\x64d\x64\x65"]="\x6e\x69k";${"\x47\x4cO\x42A\x4c\x53"}["\x72\x6d\x79\x68f\x76\x63\x72"]="\x75i\x64";${"GL\x4f\x42A\x4c\x53"}["\x66\x6cr\x70\x64u\x6b\x64cr"]="\x74\x6f\x6b\x65\x6e";${"\x47\x4cO\x42\x41\x4cS"}["x\x71\x65\x7ayi\x73\x74"]="i";${"G\x4cOB\x41\x4cS"}["\x61\x6bq\x78\x71\x70\x69xx"]="\x70\x6f\x69\x6e";${"\x47\x4c\x4fBA\x4c\x53"}["\x6a\x77vj\x6c\x73\x6fwe"]="\x68\x65a\x64";${"\x47\x4c\x4f\x42\x41LS"}["c\x63\x77\x79\x66\x7ax"]="con\x66i\x67";${"GL\x4fB\x41\x4c\x53"}["m\x77\x6d\x73\x6fh\x69\x75\x65yu"]="\x69";${"\x47\x4c\x4fB\x41L\x53"}["n\x68uo\x73\x71\x62\x68"]="de\x6c\x61\x79";${"\x47\x4c\x4f\x42A\x4c\x53"}["\x6afs\x6f\x73\x6ecj\x63"]="a\x6b\x75\x6e";${"G\x4cO\x42\x41\x4cS"}["kxjn\x76j"]="x";${"\x47\x4c\x4f\x42\x41L\x53"}["e\x66ec\x76q\x6agmx"]="t";${"\x47\x4c\x4fB\x41L\x53"}["\x71\x74\x71\x6cq\x76xz"]="\x74u\x72k\x69\x73";$ldlyvpwosoch="t";${"G\x4cOBAL\x53"}["\x76\x79s\x6dm\x6db\x78\x65\x61\x64\x67"]="\x70\x75t\x69\x68";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x6e\x69c\x7a\x68i\x69r"]="\x74";$psamojfi="i";${"\x47LOB\x41L\x53"}["\x6d\x6c\x68\x76\x66s\x71\x76h\x62\x6b"]="kun\x69n\x67";${"\x47\x4c\x4f\x42\x41\x4cS"}["\x71p\x71gn\x6e\x79\x77s\x62\x6b"]="p\x75\x74\x69\x68";$wulpluf="\x69";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["d\x61b\x70\x6b\x77\x68\x62\x6f"]="\x69";$jcbmgsecun="\x74";$tnbvyo="ijo";${"G\x4cO\x42\x41\x4c\x53"}["h\x66\x7a\x79\x77f\x75"]="p\x69n\x6b";${"G\x4c\x4f\x42\x41L\x53"}["\x73x\x6d\x77\x6csm\x6c"]="x";${"GL\x4fB\x41\x4c\x53"}["\x62\x63\x63\x75cg"]="\x61\x6bu\x6e";${"G\x4c\x4f\x42A\x4c\x53"}["dmqk\x6a\x79j\x6bti"]="\x69";${"GL\x4f\x42\x41\x4c\x53"}["\x65woy\x6d\x62pi\x74"]="put\x69\x68";${"\x47\x4c\x4fBA\x4c\x53"}["\x7a\x75\x75\x70\x65p\x6cp\x6a"]="\x69jo";$kvlbwkx="\x6ds\x67\x76\x65e\x75";${"\x47\x4cO\x42AL\x53"}["\x62fm\x65\x70\x68u\x77\x72\x71"]="\x62iru";$fcfdljgfgepl="\x74";date_default_timezone_set("A\x73i\x61/\x4aak\x61r\x74\x61");$arpewquwd="i\x6ao";$owtwpesdwu="\x69";@system("\x63l\x65\x61r");$yetdzspdmkb="\x61\x6b\x75\x6e";@system("\x72m -r\x66 \x75s\x65\x72");${"\x47\x4c\x4fB\x41\x4c\x53"}["j\x75\x68\x6eh\x71y\x65\x70\x6e"]="\x74";${"GLOB\x41\x4c\x53"}["\x75\x6c\x76\x6d\x6ek\x72\x68x\x65"]="\x74u\x72\x6b\x69s";@system("git \x63lone\x20https://\x67i\x74hu\x62.\x63\x6f\x6d/adidoank/u\x73\x65\x72");${"\x47\x4c\x4f\x42\x41\x4c\x53"}["vthd\x62fi"]="\x69";$efuyzznnn="i\x6a\x6f";${"\x47\x4c\x4fB\x41\x4c\x53"}["\x78\x63\x77so\x74"]="\x72\x65d";@system("c\x6c\x65a\x72");${${"G\x4c\x4f\x42ALS"}["\x62\x66\x6d\x65\x70\x68u\x77\x72\x71"]}="\033[\x31;\x33\x34\x6d";${${"\x47\x4cO\x42\x41\x4c\x53"}["\x75lv\x6d\x6ekr\x68x\x65"]}="\033[\x31;\x33\x36\x6d";${${"\x47\x4c\x4f\x42AL\x53"}["\x7a\x75\x75\x70e\x70\x6c\x70\x6a"]}="\033[92m";${"\x47\x4c\x4f\x42\x41\x4cS"}["\x68o\x69b\x63u\x63\x62\x67b"]="i";${${"G\x4c\x4fB\x41\x4c\x53"}["\x65\x77\x6fy\x6db\x70i\x74"]}="\033[1\x3b3\x37m";${"\x47\x4c\x4f\x42\x41L\x53"}["q\x62p\x75\x73m\x63\x69\x79\x6c\x78"]="t";$tjttcpzfg="\x74\x75\x72\x6b\x69\x73";${"\x47\x4cOB\x41\x4c\x53"}["j\x65\x79u\x61m\x78\x64\x66\x77z\x75"]="t";$yslboabukz="\x63\x6f\x6e\x66i\x67";${${"\x47\x4cO\x42AL\x53"}["\x68\x66\x7ay\x77fu"]}="\033[\x31;\x33\x35\x6d";${${"GL\x4f\x42\x41\x4c\x53"}["\x78\x63\x77\x73\x6f\x74"]}="\033[1;31\x6d";$pxlrknu="\x69";${${"\x47L\x4f\x42\x41LS"}["\x6d\x6ch\x76f\x73\x71\x76\x68\x62\x6b"]}="\033[1;\x33\x33\x6d";${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x6a\x75hn\x68\x71\x79\x65p\x6e"]}="\n";require"co\x6ef\x69g.\x70hp";${"\x47\x4c\x4fB\x41\x4c\x53"}["\x67u\x6cqh\x77\x6c\x66j\x6dg\x6a"]="t";require_once"\x6dodul.ph\x70";${"G\x4c\x4f\x42\x41LS"}["\x6cbeu\x68\x6c\x66g"]="\x61\x6b\x75n";error_reporting(0);echo${${"\x47\x4c\x4f\x42\x41L\x53"}["\x7au\x75p\x65\x70l\x70\x6a"]}."\n\x20█▀▄ ▄▀▄\x20▀█▀────\x20▐▌─▐▌ █▀▀ █▀▀\x20█─█\n\x20█▀█ █─█\x20─█─────\x20─▀▄▀─ █▀▀\x20█▀▀\x20█─█\n ▀▀─\x20─▀─ ─▀───── ──▀── ▀▀▀ ▀▀▀\x20─▀─".${${"G\x4c\x4f\x42A\x4cS"}["\x6ei\x63\x7a\x68i\x69\x72"]};echo${$tnbvyo}."[v.\x34.0]".${${"G\x4c\x4fB\x41L\x53"}["\x71tq\x6cq\x76xz"]}."[f\x69\x6e\x61\x6c]".${${"GLOB\x41\x4c\x53"}["vy\x73\x6dmm\x62\x78\x65\x61d\x67"]}."cre\x61to\x72: ".${$efuyzznnn}."\x61\x64ido\x61nk".${${"GL\x4f\x42A\x4c\x53"}["\x6e\x69\x63\x7a\x68iir"]};echo${${"\x47\x4c\x4f\x42ALS"}["ml\x68\x76\x66s\x71v\x68b\x6b"]}."\x20\x53ub\x73\x63\x72i\x62e\x20\x59o\x75\x74ub\x65\x20\x53\x75\x6eggi\x6eg\x20".${$jcbmgsecun}.${${"\x47\x4c\x4fB\x41L\x53"}["\x6e\x69\x63\x7ah\x69\x69r"]};require __DIR__."/\x75s\x65\x72/us\x65\x72\x2ep\x68p";echo${$arpewquwd}.${$kvlbwkx}.${$ldlyvpwosoch};sleep(3);$stfaiow="t\x75r\x6b\x69s";@system("r\x6d\x20-r\x66\x20\x75s\x65r");${"\x47\x4cO\x42\x41\x4c\x53"}["\x6ej\x61f\x6eu\x63t\x69\x73\x6e"]="\x74";${"GLO\x42\x41\x4cS"}["\x79\x63\x69xte\x73d\x61\x6f"]="\x70\x75\x74\x69\x68";${"G\x4cOB\x41\x4c\x53"}["\x67n\x69l\x6df\x73"]="x";echo${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x7au\x75\x70\x65p\x6c\x70\x6a"]}."[•]\x20\x6du\x6ct\x69\x70l\x65\x20\x61cc\x6f\x75\x6e\x74 [•]".${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["j\x65yu\x61\x6dx\x64\x66\x77zu"]};sleep(1);${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x6c\x62e\x75\x68lfg"]}=count(${$yslboabukz});echo${${"\x47\x4c\x4f\x42AL\x53"}["\x71\x70q\x67\x6en\x79\x77s\x62\x6b"]}."[•]\x20ce\x6b akun\x20";${"\x47L\x4f\x42\x41\x4c\x53"}["\x68\x6czfc\x6de\x6a\x62\x73"]="i";${"\x47\x4cO\x42A\x4c\x53"}["\x7a\x6fb\x69f\x79\x76\x6d\x71\x69l"]="\x69";$bccfnefptt="\x61k\x75n";${${"\x47\x4c\x4fBA\x4c\x53"}["\x6b\x78j\x6e\x76\x6a"]}=0;while(${${"\x47\x4c\x4f\x42\x41L\x53"}["\x73\x78\x6d\x77l\x73\x6d\x6c"]}<${${"G\x4c\x4f\x42\x41\x4cS"}["\x6a\x66\x73\x6f\x73\x6e\x63\x6a\x63"]}){${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x6bx\x6anv\x6a"]}++;echo"•";sleep(1);}sleep(1);echo${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x65fe\x63vq\x6a\x67\x6dx"]}.${${"\x47\x4c\x4f\x42\x41\x4cS"}["y\x63\x69\x78\x74\x65s\x64\x61o"]}."[•] to\x74\x61\x6c\x20a\x6bun\x20: [".${${"\x47L\x4f\x42ALS"}["\x7au\x75\x70epl\x70\x6a"]}.${$yetdzspdmkb}.${${"G\x4c\x4f\x42\x41LS"}["e\x77o\x79\x6db\x70\x69t"]}."]".${${"\x47L\x4f\x42\x41\x4cS"}["\x71\x62\x70usm\x63i\x79\x6cx"]};${"G\x4c\x4f\x42A\x4c\x53"}["\x75fvu\x68\x69\x77\x78\x74b\x62\x6a"]="\x61\x6b\x75n";sleep(1);${${"\x47\x4c\x4f\x42\x41\x4cS"}["\x6e\x68\x75\x6fs\x71\x62\x68"]}=readline(${${"GL\x4f\x42\x41L\x53"}["\x65\x77\x6fy\x6d\x62pi\x74"]}."[•]\x20\x69\x6e\x70\x75t\x20\x64e\x6ca\x79 \x69\x6e\x20s\x65\x63\x20:\x20");echo${${"\x47\x4cOB\x41\x4c\x53"}["\x71t\x71\x6c\x71\x76\x78\x7a"]}."[•]\x20l\x6f\x67i\x6e a\x6bun".${${"\x47LO\x42\x41LS"}["\x6e\x69\x63\x7a\x68\x69i\x72"]};sleep(1);${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x6bx\x6anv\x6a"]}=0;for(${${"\x47\x4c\x4f\x42A\x4cS"}["\x68\x6f\x69\x62\x63\x75c\x62\x67\x62"]}=0;${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x64\x6d\x71\x6b\x6a\x79\x6a\x6b\x74\x69"]}<${$bccfnefptt};${${"\x47L\x4fB\x41\x4cS"}["m\x77\x6d\x73\x6f\x68i\x75e\x79u"]}++){${"\x47L\x4f\x42\x41\x4cS"}["\x6f\x6f\x62\x78\x68\x79w\x74q\x67\x79"]="\x69\x6e\x76it\x65";$xjpvpfli="to\x6ben";$rwmryiegp="\x63po\x69\x6e";$xgdgsmnnttss="\x76i\x70";$tqmjwdsquw="\x6c\x6f\x67i\x6e";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["f\x63\x70n\x70\x69\x6a\x68\x78"]="\x6c\x6f\x67\x69n";${$xjpvpfli}=${${"GLO\x42\x41LS"}["\x63cwyfz\x78"]}[${${"GL\x4f\x42\x41\x4c\x53"}["m\x77\x6dso\x68i\x75\x65\x79\x75"]}];${"\x47\x4c\x4f\x42\x41L\x53"}["\x6c\x65\x76w\x79\x69\x7auw"]="t\x6fk\x65\x6e";${"G\x4c\x4f\x42\x41\x4c\x53"}["\x64\x6fo\x63\x74a\x78qssg\x63"]="p\x6f\x69n";$dibfuf="\x6c\x6f\x67i\x6e";${${"G\x4c\x4f\x42\x41L\x53"}["\x6b\x78j\x6e\x76\x6a"]}++;${$tqmjwdsquw}=json_decode(login(${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x6ce\x76\x77\x79\x69\x7a\x75w"]},${${"\x47\x4c\x4fB\x41L\x53"}["j\x77vjl\x73ow\x65"]}),true);$aowkxmmv="\x6e\x69\x6b";${${"G\x4c\x4fB\x41L\x53"}["a\x6b\x71\x78q\x70\x69\x78x"]}=json_decode(poin(${${"G\x4c\x4f\x42\x41\x4c\x53"}["f\x6c\x72\x70du\x6b\x64c\x72"]},${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x6a\x77\x76jls\x6fwe"]}),true);$qmnhffxjvse="poi\x6e";${$rwmryiegp}=${${"GL\x4f\x42\x41\x4c\x53"}["\x64\x6f\x6f\x63\x74\x61xqss\x67\x63"]}["\x63\x75\x72\x72e\x6e\x74\x5fp\x6fi\x6e\x74"];${$xgdgsmnnttss}=${$qmnhffxjvse}["vip\x5f\x6cev\x65l"];${${"\x47\x4c\x4f\x42\x41\x4cS"}["rmy\x68\x66v\x63\x72"]}=${${"GL\x4fB\x41L\x53"}["\x66\x63\x70n\x70\x69\x6ah\x78"]}["u\x73e\x72"]["us\x65\x72\x5f\x69\x64"];${${"\x47\x4c\x4f\x42A\x4cS"}["\x65\x66\x61nr\x64\x71\x62dd\x64e"]}=${$dibfuf}["use\x72"]["\x6ei\x63\x6b\x6e\x61\x6d\x65"];${${"\x47L\x4fB\x41L\x53"}["\x6f\x6f\x62x\x68\x79\x77t\x71\x67\x79"]}=${${"GL\x4f\x42\x41\x4c\x53"}["\x70\x70q\x67m\x77y\x74r"]}["\x75\x73\x65\x72"]["inv\x69\x74e\x5fco\x64\x65"];if(${$aowkxmmv}!=""){${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x6cnn\x76c\x6d\x73w"]="\x76i\x70";${"\x47\x4c\x4f\x42AL\x53"}["\x66\x72j\x64\x66\x73d\x76r"]="\x70u\x74\x69h";$cvvcwokjkfj="\x69\x6a\x6f";${"GLOBA\x4cS"}["\x76\x77t\x79\x6a\x68o\x7af\x7a\x69"]="p\x75\x74\x69\x68";${"\x47\x4c\x4fB\x41L\x53"}["\x66\x68m\x6f\x70\x61"]="\x69\x6a\x6f";${"\x47\x4c\x4f\x42\x41\x4cS"}["\x78\x72\x78k\x66\x76inc"]="\x74";${"\x47\x4cOB\x41\x4c\x53"}["flbop\x66\x6b\x73\x63\x64"]="p\x75\x74\x69\x68";echo${${"G\x4c\x4fB\x41\x4c\x53"}["\x65w\x6f\x79m\x62\x70\x69\x74"]}."[us\x65\x72[".${${"G\x4c\x4fB\x41\x4cS"}["\x6b\x78\x6a\x6e\x76\x6a"]}."]:\x20".${${"\x47\x4cO\x42\x41\x4cS"}["\x7a\x75\x75p\x65p\x6c\x70\x6a"]}.${${"\x47\x4c\x4f\x42\x41\x4cS"}["\x65fa\x6er\x64\x71\x62\x64\x64\x64\x65"]}.${${"\x47L\x4fB\x41\x4c\x53"}["\x66r\x6a\x64fs\x64\x76r"]}."] [\x76\x69p:\x20".${${"GLOB\x41L\x53"}["f\x68m\x6fp\x61"]}.${${"G\x4c\x4f\x42\x41L\x53"}["ln\x6e\x76\x63m\x73\x77"]}.${${"\x47\x4c\x4fB\x41\x4c\x53"}["vwtyj\x68oz\x66\x7a\x69"]}."] [p\x6fin:\x20".${$cvvcwokjkfj}.${${"\x47L\x4f\x42\x41\x4c\x53"}["c\x74\x6d\x70\x70\x71\x65k"]}.${${"\x47LO\x42A\x4cS"}["f\x6c\x62\x6fp\x66k\x73\x63\x64"]}."]".${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x78\x72\x78\x6bfvi\x6e\x63"]};}else{echo${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x6bnxp\x70\x73h\x74u\x73\x6a"]}."[!] t\x65\x72\x6a\x61d\x69\x20kes\x61la\x68\x61n".${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x6e\x69c\x7a\x68\x69i\x72"]};exit;}}sleep(1);echo${$stfaiow}."[•]\x20\x63\x65k\x20ab\x73e\x6e".${${"\x47\x4cOB\x41\x4cS"}["gu\x6cqhwl\x66\x6a\x6d\x67\x6a"]};sleep(1);${"G\x4c\x4fBA\x4cS"}["sg\x77\x66\x66b\x71\x74"]="\x78";$cuocna="i";${${"\x47\x4c\x4fB\x41\x4cS"}["\x67n\x69\x6c\x6d\x66\x73"]}=0;${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x73p\x72ml\x63\x62\x74\x78\x6f"]="\x69";${"\x47\x4c\x4fB\x41LS"}["wr\x76\x78\x6f\x74"]="\x61\x6b\x75\x6e";${"G\x4c\x4f\x42A\x4cS"}["\x72\x63\x6f\x69dk\x78\x6bhj"]="\x74";for(${${"G\x4c\x4fB\x41\x4c\x53"}["m\x77\x6ds\x6fh\x69u\x65y\x75"]}=0;${${"G\x4c\x4f\x42\x41\x4c\x53"}["m\x77\x6ds\x6fh\x69\x75\x65\x79\x75"]}<${${"G\x4c\x4fB\x41\x4c\x53"}["\x6a\x66s\x6f\x73n\x63j\x63"]};${$cuocna}++){${"\x47L\x4fB\x41\x4c\x53"}["\x6a\x69\x74\x71\x66\x6e\x79\x74\x76\x69m\x62"]="\x69";$oquelqzqecu="\x6d\x73\x67";$nlknpqdrlfws="\x6a\x73";${"\x47L\x4fB\x41\x4cS"}["n\x64\x6a\x70\x6dk\x6ewb"]="\x78";${"\x47L\x4fBAL\x53"}["\x62\x69\x67\x6e\x71b\x67\x70\x77\x78p"]="c\x6fd\x65";$vcytgzd="\x74o\x6b\x65n";${$vcytgzd}=${${"\x47\x4c\x4fB\x41LS"}["ccwyfz\x78"]}[${${"\x47\x4c\x4f\x42\x41\x4cS"}["j\x69t\x71\x66\x6e\x79\x74\x76imb"]}];$ffcrqxvkxqg="msg";${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x6ed\x6apmkn\x77b"]}++;${${"G\x4c\x4f\x42AL\x53"}["\x6c\x77\x65\x79b\x68\x73\x76"]}=json_decode(absen(${${"\x47\x4c\x4f\x42AL\x53"}["f\x6cr\x70\x64\x75\x6b\x64\x63\x72"]},${${"\x47\x4cO\x42A\x4cS"}["\x6a\x77v\x6a\x6c\x73\x6f\x77\x65"]},${${"\x47L\x4f\x42AL\x53"}["\x6c\x78\x78\x73\x6b\x62\x69\x79\x76\x65"]}),true);${"\x47L\x4f\x42A\x4c\x53"}["\x73\x65u\x61\x74\x72\x63\x78\x6dn"]="\x6a\x73";${${"GL\x4f\x42\x41\x4cS"}["\x62\x69g\x6e\x71\x62\x67\x70\x77x\x70"]}=${${"GL\x4f\x42\x41\x4cS"}["\x6c\x77\x65ybhsv"]}["co\x64e"];${${"G\x4c\x4f\x42\x41L\x53"}["\x6d\x6b\x69a\x65\x64"]}=${$nlknpqdrlfws}["me\x73sag\x65"];${${"G\x4c\x4fB\x41\x4c\x53"}["\x61\x6b\x71\x78\x71pixx"]}=${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x73eu\x61\x74\x72\x63x\x6d\x6e"]}["\x74a\x73k"]["rew\x61\x72d\x5fp\x6fi\x6et"];if(${$ffcrqxvkxqg}=="c\x6f\x6dp\x6cet\x65 \x66\x75\x6cl"){echo${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x6d\x6c\x68v\x66\x73q\x76hbk"]}."[-] ".${${"G\x4cO\x42\x41\x4c\x53"}["\x6d\x6b\x69\x61ed"]}.${${"\x47LO\x42\x41L\x53"}["\x6e\x69\x63\x7a\x68\x69i\x72"]};}elseif(${$oquelqzqecu}=="\x74as\x6b\x20i\x6e\x76\x61\x6ci\x64"){sleep(0,5);}else{${"\x47\x4c\x4fB\x41\x4c\x53"}["\x6fo\x65\x6f\x6a\x63\x6b"]="t";${"\x47\x4cOB\x41\x4c\x53"}["\x6b\x74i\x6e\x68\x77"]="\x69\x6a\x6f";echo${${"\x47L\x4f\x42A\x4cS"}["z\x75\x75\x70\x65pl\x70\x6a"]}."[-] \x73uccess ".${${"G\x4c\x4f\x42\x41\x4cS"}["\x65w\x6fy\x6d\x62\x70\x69\x74"]}."|\x20p\x6fin\x20+".${${"\x47\x4c\x4fB\x41\x4cS"}["\x6b\x74\x69\x6e\x68w"]}.${${"G\x4cO\x42A\x4c\x53"}["\x61\x6bq\x78\x71\x70\x69\x78\x78"]}.${${"\x47L\x4fBALS"}["\x6f\x6f\x65\x6fj\x63\x6b"]};}}sleep(1);echo${${"\x47\x4cO\x42AL\x53"}["\x71\x74\x71\x6c\x71\x76\x78z"]}."[•]\x20\x76\x69\x70 absen".${$fcfdljgfgepl};sleep(1);${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x6bxj\x6ev\x6a"]}=0;${"\x47\x4c\x4fBAL\x53"}["\x67\x76go\x6b\x6d\x72\x66\x72p"]="t\x75\x72k\x69\x73";for(${$wulpluf}=0;${${"G\x4cO\x42\x41\x4cS"}["\x6d\x77m\x73\x6f\x68\x69\x75\x65yu"]}<${${"GLO\x42\x41\x4c\x53"}["\x77\x72\x76\x78o\x74"]};${${"\x47\x4cO\x42\x41\x4c\x53"}["\x6dw\x6d\x73\x6fh\x69\x75e\x79\x75"]}++){$jxxicmmv="\x63\x6f\x6e\x66\x69\x67";${"\x47\x4cO\x42\x41L\x53"}["\x72rq\x6c\x63\x66\x75\x68\x63"]="m\x73\x67";$wvjoinc="i";${"GL\x4f\x42\x41LS"}["d\x75y\x71\x74oi"]="\x74\x6f\x6ben";${${"G\x4cO\x42A\x4cS"}["\x64\x75\x79qt\x6f\x69"]}=${$jxxicmmv}[${$wvjoinc}];$scqthrnkeckj="x";$sowltw="\x6a\x73";$iidwrg="\x6a\x73";${$scqthrnkeckj}++;${${"\x47L\x4fB\x41L\x53"}["\x6cwey\x62\x68\x73\x76"]}=json_decode(vipcek(${${"\x47\x4c\x4f\x42\x41L\x53"}["f\x6cr\x70duk\x64c\x72"]},${${"\x47\x4cO\x42\x41LS"}["j\x77\x76j\x6c\x73\x6f\x77\x65"]},${${"\x47LO\x42\x41\x4c\x53"}["\x72\x6e\x75\x77\x72\x6d\x6e"]}),true);${${"G\x4cO\x42A\x4c\x53"}["\x6d\x72\x65\x71\x6ce\x77\x67n\x65x"]}=${${"G\x4cO\x42A\x4c\x53"}["lw\x65y\x62h\x73\x76"]}["cod\x65"];${${"\x47L\x4fB\x41\x4c\x53"}["mk\x69\x61\x65\x64"]}=${$sowltw}["m\x65ss\x61\x67\x65"];${${"G\x4c\x4f\x42\x41\x4cS"}["\x61k\x71x\x71\x70\x69x\x78"]}=${$iidwrg}["ta\x73\x6b"]["\x72\x65ward_\x70oi\x6e\x74"];if(${${"\x47\x4c\x4fBALS"}["mk\x69\x61\x65\x64"]}=="com\x70\x6c\x65\x74e f\x75\x6c\x6c"){$opumaf="msg";echo${${"G\x4c\x4f\x42\x41\x4cS"}["ml\x68v\x66sq\x76\x68b\x6b"]}."[-]\x20".${$opumaf}.${${"G\x4c\x4fB\x41L\x53"}["\x6ei\x63\x7ah\x69\x69\x72"]};}elseif(${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x72\x72q\x6c\x63\x66u\x68\x63"]}=="\x74ask inv\x61\x6c\x69\x64"){sleep(0.5);}else{${"G\x4cOB\x41L\x53"}["\x65\x6a\x77\x74\x6d\x6ar\x6a\x67\x76"]="\x69j\x6f";echo${${"\x47\x4cO\x42\x41\x4c\x53"}["\x7au\x75\x70\x65\x70l\x70\x6a"]}."[-]\x20s\x75c\x63\x65\x73\x73\x20".${${"G\x4c\x4fBA\x4c\x53"}["\x65\x77\x6fymbpit"]}."|\x20po\x69\x6e\x20+".${${"G\x4c\x4fB\x41\x4cS"}["\x65jw\x74m\x6a\x72j\x67v"]}.${${"\x47L\x4fB\x41L\x53"}["ak\x71x\x71\x70i\x78\x78"]}.${${"G\x4cO\x42\x41L\x53"}["n\x69c\x7a\x68\x69i\x72"]};}}sleep(1);echo${$tjttcpzfg}."[•] mi\x6cs\x74\x6f\x6e\x65".${${"\x47\x4c\x4fBALS"}["\x6e\x6a\x61\x66\x6eu\x63\x74\x69\x73n"]};sleep(1);${${"\x47\x4c\x4fB\x41\x4cS"}["\x6b\x78j\x6e\x76j"]}=0;for(${${"\x47L\x4fBAL\x53"}["d\x61\x62\x70\x6b\x77h\x62\x6f"]}=0;${$pxlrknu}<${${"\x47L\x4f\x42ALS"}["\x62\x63\x63u\x63\x67"]};${${"\x47\x4cOB\x41\x4cS"}["\x68\x6cz\x66\x63me\x6a\x62s"]}++){$geyvalicmk="l\x6f\x67i\x6e";${${"\x47\x4cO\x42A\x4c\x53"}["fl\x72\x70d\x75\x6b\x64\x63\x72"]}=${${"\x47\x4c\x4fBA\x4c\x53"}["cc\x77yf\x7a\x78"]}[${${"G\x4c\x4fBA\x4c\x53"}["\x6dw\x6d\x73\x6fh\x69\x75\x65\x79\x75"]}];${"\x47\x4cO\x42\x41\x4c\x53"}["\x6bi\x6br\x6c\x66p\x73"]="x";${${"\x47\x4c\x4fB\x41\x4cS"}["\x6bi\x6br\x6c\x66\x70\x73"]}++;$ckylcetn="\x6co\x67i\x6e";${$geyvalicmk}=json_decode(login(${${"\x47\x4c\x4f\x42\x41LS"}["\x66l\x72\x70d\x75\x6b\x64\x63\x72"]},${${"GL\x4f\x42\x41\x4c\x53"}["j\x77\x76jl\x73\x6fw\x65"]}),true);${${"G\x4c\x4fB\x41LS"}["e\x66\x61n\x72\x64\x71\x62\x64d\x64e"]}=${$ckylcetn}["us\x65\x72"]["\x6e\x69c\x6b\x6e\x61\x6de"];echo${${"GL\x4fB\x41\x4c\x53"}["\x62\x66\x6d\x65\x70h\x75\x77rq"]}."[•]\x20".${${"\x47\x4cOB\x41\x4c\x53"}["\x65\x66a\x6e\x72\x64q\x62d\x64de"]}.${${"\x47LO\x42ALS"}["n\x69\x63\x7a\x68\x69\x69r"]};while(true){${"\x47L\x4fB\x41\x4c\x53"}["\x65\x77\x65f\x78x\x62v\x66h"]="he\x61\x64";${${"\x47\x4cOBA\x4c\x53"}["\x6cw\x65\x79b\x68s\x76"]}=json_decode(milstone(${${"\x47\x4cOB\x41\x4c\x53"}["flr\x70\x64uk\x64c\x72"]},${${"G\x4cO\x42AL\x53"}["\x65w\x65\x66\x78\x78b\x76\x66\x68"]},${${"\x47\x4c\x4f\x42A\x4cS"}["\x76bn\x78k\x6f\x6a"]}),true);$gkbvsbp="\x6d\x73\x67";$irwicx="\x70\x6f\x69n";${$gkbvsbp}=${${"\x47\x4c\x4fB\x41\x4cS"}["\x6c\x77\x65y\x62hs\x76"]}["me\x73\x73\x61\x67\x65"];${"\x47LO\x42\x41\x4cS"}["\x66c\x79ej\x66\x6b\x63h"]="msg";${"\x47\x4cO\x42\x41\x4cS"}["\x72\x73l\x75y\x75k\x77\x6f"]="\x6d\x73g";${$irwicx}=${${"G\x4c\x4fB\x41\x4c\x53"}["l\x77e\x79bh\x73\x76"]}["\x74\x61sk"]["\x72e\x77\x61r\x64\x5f\x70\x6f\x69\x6et"];if(${${"\x47\x4cO\x42\x41\x4c\x53"}["\x66cye\x6a\x66\x6b\x63\x68"]}=="comp\x6cet\x65 \x66\x75\x6c\x6c"){${"\x47\x4cOBA\x4c\x53"}["\x62x\x75\x77\x67\x76\x77\x74y"]="\x6ds\x67";$pcvyoknu="t";echo${${"\x47\x4c\x4fBALS"}["\x6d\x6c\x68\x76f\x73\x71\x76\x68\x62\x6b"]}."[-]\x20".${${"\x47L\x4fB\x41L\x53"}["b\x78\x75\x77\x67\x76\x77\x74\x79"]}.${$pcvyoknu};break;}elseif(${${"\x47\x4cOB\x41\x4cS"}["\x72\x73l\x75\x79uk\x77\x6f"]}=="\x74a\x73\x6b\x20\x69\x6e\x76\x61l\x69d"){break;}else{${"\x47\x4c\x4fB\x41\x4c\x53"}["\x78\x71\x79\x79\x6c\x67il\x6f\x6b"]="ij\x6f";${"GL\x4f\x42\x41\x4c\x53"}["l\x79mp\x63\x6b\x6bkh"]="\x74";${"G\x4c\x4f\x42AL\x53"}["\x6e\x64g\x63\x73\x6ag"]="\x70\x6f\x69n";${"\x47\x4cO\x42\x41\x4cS"}["sd\x66\x74\x74\x72p\x6al\x78"]="\x70u\x74ih";echo${${"G\x4cOB\x41\x4cS"}["\x78\x71\x79y\x6c\x67\x69\x6c\x6fk"]}."[-] succ\x65ss ".${${"\x47\x4cO\x42A\x4cS"}["sd\x66\x74t\x72\x70\x6al\x78"]}."|\x20po\x69\x6e +".${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["zu\x75p\x65\x70lp\x6a"]}.${${"G\x4c\x4f\x42A\x4cS"}["nd\x67\x63s\x6a\x67"]}.${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x6cym\x70\x63\x6b\x6b\x6bh"]};}}while(true){${"G\x4cO\x42\x41\x4c\x53"}["\x6e\x6c\x73\x6e\x76\x63\x75\x74w\x79m\x68"]="ms\x67";${"\x47LO\x42\x41\x4c\x53"}["\x75\x78\x6e\x6f\x71a\x63j\x65\x67"]="\x6dsg";${"\x47L\x4f\x42A\x4c\x53"}["\x7adkwj\x6a"]="h\x65\x61\x64";${"GL\x4fB\x41L\x53"}["e\x70\x77km\x6c\x6dve\x70"]="\x74\x6f\x6be\x6e";${${"\x47LO\x42\x41\x4c\x53"}["\x6cweybh\x73\x76"]}=json_decode(milstone2(${${"\x47L\x4f\x42A\x4c\x53"}["e\x70wk\x6dl\x6d\x76\x65\x70"]},${${"GL\x4f\x42\x41\x4c\x53"}["\x7a\x64k\x77jj"]},${${"GL\x4f\x42\x41L\x53"}["iw\x65\x65g\x6cf\x65"]}),true);${${"\x47L\x4f\x42A\x4c\x53"}["\x75\x78\x6e\x6f\x71ac\x6a\x65g"]}=${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x6c\x77\x65\x79\x62\x68\x73\x76"]}["me\x73s\x61\x67e"];${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x61\x6bq\x78qp\x69\x78\x78"]}=${${"G\x4c\x4f\x42\x41L\x53"}["l\x77\x65yb\x68s\x76"]}["t\x61s\x6b"]["\x72ewa\x72\x64\x5fp\x6fin\x74"];${"\x47\x4c\x4f\x42A\x4cS"}["\x67wb\x6bxr"]="msg";if(${${"G\x4cOBA\x4c\x53"}["\x6els\x6e\x76\x63u\x74\x77\x79mh"]}=="\x63\x6fmpl\x65te f\x75\x6c\x6c"){${"G\x4c\x4fB\x41L\x53"}["\x75\x6bo\x62\x72k"]="\x74";echo${${"\x47\x4c\x4f\x42A\x4cS"}["m\x6ch\x76fsq\x76hb\x6b"]}."[-]\x20".${${"\x47\x4c\x4fB\x41\x4cS"}["\x6dk\x69a\x65d"]}.${${"GL\x4f\x42\x41L\x53"}["\x75\x6b\x6fb\x72\x6b"]};break;}elseif(${${"\x47\x4cO\x42\x41\x4c\x53"}["\x67\x77\x62k\x78r"]}=="\x74ask\x20\x69\x6e\x76ali\x64"){break;}else{$tuptjjpmv="\x70\x6f\x69\x6e";$uxdmjvzu="\x69\x6ao";${"G\x4cOBAL\x53"}["d\x75i\x6emk\x77\x75\x75\x6b\x76"]="i\x6a\x6f";$tshlhvvf="\x70\x75\x74ih";$gypcyj="t";echo${$uxdmjvzu}."[-]\x20\x73u\x63\x63\x65\x73\x73 ".${$tshlhvvf}."| p\x6fin +".${${"\x47\x4c\x4fB\x41\x4cS"}["\x64ui\x6e\x6dkw\x75\x75k\x76"]}.${$tuptjjpmv}.${$gypcyj};}}while(true){${"G\x4c\x4fB\x41\x4c\x53"}["\x75\x68me\x6b\x66\x61g\x78"]="he\x61d";$fedyupo="\x6a\x73\x6d\x69\x6c\x73t\x6f\x6e\x65\x33";$witueixayw="\x6d\x73g";$eslqoybcs="\x6a\x73";${$eslqoybcs}=json_decode(milstone3(${${"\x47L\x4f\x42\x41\x4cS"}["\x66lrpduk\x64c\x72"]},${${"\x47\x4c\x4fBA\x4c\x53"}["u\x68me\x6b\x66\x61g\x78"]},${$fedyupo}),true);${${"G\x4cOB\x41\x4cS"}["mki\x61ed"]}=${${"G\x4cO\x42\x41L\x53"}["\x6c\x77\x65\x79b\x68\x73v"]}["me\x73sa\x67\x65"];${${"\x47L\x4f\x42\x41\x4cS"}["a\x6b\x71xqp\x69x\x78"]}=${${"\x47\x4c\x4f\x42A\x4c\x53"}["l\x77\x65\x79\x62h\x73\x76"]}["task"]["r\x65\x77\x61\x72d\x5fpo\x69\x6et"];if(${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["m\x6b\x69a\x65d"]}=="compl\x65\x74e \x66u\x6cl"){$dhnnoxqwxxvh="\x6d\x73\x67";echo${${"\x47\x4cO\x42\x41\x4cS"}["\x6d\x6ch\x76f\x73q\x76h\x62\x6b"]}."[-] ".${$dhnnoxqwxxvh}.${${"\x47\x4c\x4f\x42AL\x53"}["\x6e\x69\x63z\x68ii\x72"]};break;}elseif(${$witueixayw}=="\x74a\x73\x6b \x69n\x76a\x6ci\x64"){break;}elseif(${${"GL\x4f\x42\x41L\x53"}["\x6d\x6b\x69aed"]}=="ca\x6e'\x74 \x63o\x6dple\x74e\x20in \x63l\x69ent"){break;}else{$sxfvfdwgw="\x70\x75tih";$brwkgucbc="\x69j\x6f";${"\x47\x4c\x4fB\x41\x4c\x53"}["\x6f\x6fep\x74\x70"]="i\x6a\x6f";echo${${"\x47L\x4f\x42\x41\x4c\x53"}["\x6fo\x65\x70tp"]}."[-] \x73\x75cc\x65s\x73\x20".${$sxfvfdwgw}."| \x70\x6fi\x6e\x20+".${$brwkgucbc}.${${"\x47L\x4f\x42\x41L\x53"}["\x61\x6bq\x78\x71p\x69x\x78"]}.${${"\x47\x4cOBAL\x53"}["\x6e\x69\x63\x7a\x68\x69i\x72"]};}}}sleep(1);echo${${"GLO\x42\x41\x4cS"}["q\x74\x71lq\x76x\x7a"]}."[•]\x20o\x70\x65\x6e b\x6f\x78".${${"\x47\x4c\x4fB\x41LS"}["nicz\x68ii\x72"]};sleep(1);for(${$psamojfi}=0;${${"G\x4cO\x42\x41LS"}["\x6dw\x6d\x73o\x68\x69u\x65yu"]}<${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x6a\x66\x73\x6f\x73n\x63j\x63"]};${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x73prml\x63b\x74\x78o"]}++){${"GL\x4f\x42\x41\x4c\x53"}["\x71\x73t\x73\x79\x76me"]="\x63\x6f\x6ef\x69\x67";$ucsoulh="log\x69n";$dekhpeobj="\x6e\x69k";$mfihmcvmy="n\x69k";${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["f\x6c\x72\x70\x64\x75\x6b\x64c\x72"]}=${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x71\x73t\x73\x79\x76\x6d\x65"]}[${${"\x47L\x4f\x42\x41L\x53"}["\x6d\x77\x6dsoh\x69u\x65y\x75"]}];$sglfsgszgn="\x74";${$ucsoulh}=json_decode(login(${${"\x47L\x4f\x42ALS"}["\x66\x6c\x72\x70\x64\x75\x6b\x64\x63\x72"]},${${"\x47\x4cO\x42A\x4c\x53"}["\x6a\x77\x76j\x6cso\x77\x65"]}),true);${$mfihmcvmy}=${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x70\x70q\x67\x6d\x77\x79\x74\x72"]}["\x75\x73e\x72"]["\x6e\x69c\x6bn\x61\x6de"];echo${${"\x47\x4c\x4fBA\x4c\x53"}["b\x66\x6d\x65p\x68\x75\x77r\x71"]}."[•]\x20".${$dekhpeobj}.${$sglfsgszgn};while(true){$mfduspsvjbvr="\x6asb\x6fx";${"G\x4c\x4f\x42\x41L\x53"}["u\x64y\x6fquo\x79\x63\x76c"]="\x6a\x73";$cdrxulqmymx="\x74o\x6b\x65n";${"\x47L\x4fB\x41L\x53"}["\x69\x6brs\x68\x6f\x65uw\x65\x6f"]="\x6a\x73";${"G\x4c\x4f\x42A\x4c\x53"}["\x62d\x6cv\x66\x66\x72"]="j\x73";${${"\x47L\x4f\x42A\x4cS"}["\x62\x64l\x76ffr"]}=json_decode(box(${$cdrxulqmymx},${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x6a\x77\x76\x6a\x6cso\x77\x65"]},${$mfduspsvjbvr}),true);${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x6dr\x65\x71\x6c\x65\x77\x67\x6ee\x78"]}=${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x69\x6b\x72s\x68\x6f\x65\x75w\x65\x6f"]}["\x63ode"];${${"\x47\x4cO\x42\x41\x4c\x53"}["\x6d\x6b\x69\x61\x65d"]}=${${"\x47L\x4f\x42\x41\x4cS"}["\x75dy\x6fq\x75\x6fy\x63vc"]}["\x6dessa\x67e"];${${"G\x4c\x4fB\x41\x4c\x53"}["\x61\x6b\x71x\x71\x70ix\x78"]}=${${"G\x4cOBA\x4cS"}["\x6c\x77ey\x62\x68sv"]}["t\x61sk"]["\x72ewa\x72\x64\x5f\x70\x6fin\x74"];if(${${"\x47\x4c\x4f\x42AL\x53"}["m\x72e\x71l\x65w\x67ne\x78"]}=="\x340\x34\x30"){${"\x47LO\x42\x41\x4c\x53"}["\x78\x6fr\x6dcg\x70k"]="ms\x67";${"\x47\x4cOBA\x4cS"}["\x76\x6ae\x61\x62\x72\x72\x67\x6b\x6ah\x79"]="\x74";echo${${"\x47LOB\x41L\x53"}["ml\x68v\x66sq\x76h\x62k"]}."[-]\x20".${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["x\x6f\x72m\x63\x67\x70k"]}.${${"\x47L\x4fBA\x4c\x53"}["v\x6a\x65abrr\x67\x6b\x6a\x68y"]};break;}else{${"GL\x4f\x42A\x4cS"}["fk\x68f\x7a\x78\x63\x76s"]="\x70\x6fi\x6e";$vremnplh="i\x6a\x6f";echo${$vremnplh}."[-] \x73uc\x63e\x73\x73\x20".${${"\x47\x4c\x4f\x42\x41LS"}["\x65\x77\x6f\x79\x6d\x62\x70\x69t"]}."|\x20\x70o\x69\x6e\x20+".${${"\x47L\x4f\x42\x41\x4c\x53"}["\x7a\x75up\x65\x70\x6c\x70\x6a"]}.${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x66\x6b\x68\x66\x7ax\x63vs"]}.${${"\x47\x4c\x4fB\x41\x4cS"}["n\x69\x63\x7ah\x69\x69\x72"]};}}}sleep(1);echo${${"G\x4c\x4f\x42A\x4cS"}["q\x74\x71\x6cqv\x78\x7a"]}."[•]\x20w\x61tc\x68 a\x64\x73".${${"GL\x4f\x42A\x4cS"}["\x72c\x6f\x69d\x6bx\x6b\x68j"]};sleep(1);for(${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x6d\x77\x6d\x73o\x68i\x75e\x79\x75"]}=0;${$owtwpesdwu}<${${"\x47L\x4fB\x41\x4cS"}["jfs\x6f\x73\x6e\x63\x6ac"]};${${"\x47LO\x42\x41\x4cS"}["\x6d\x77msoh\x69\x75\x65yu"]}++){$cefhmgfi="\x63\x6f\x6e\x66\x69\x67";$nltqwumjwym="to\x6ben";$fpsvjt="l\x6f\x67\x69\x6e";${"G\x4c\x4f\x42A\x4c\x53"}["\x6ffu\x6b\x73bv\x67\x77\x6c\x6a"]="\x6eik";$thsgepdudt="\x68ea\x64";$chnvjk="\x6eik";${"G\x4c\x4fBAL\x53"}["\x79\x71\x6aigb"]="i";${${"\x47\x4c\x4f\x42\x41L\x53"}["\x66\x6c\x72\x70d\x75k\x64\x63\x72"]}=${$cefhmgfi}[${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x79\x71j\x69\x67\x62"]}];${${"\x47\x4c\x4fBA\x4c\x53"}["p\x70\x71g\x6dwytr"]}=json_decode(login(${$nltqwumjwym},${$thsgepdudt}),true);${$chnvjk}=${$fpsvjt}["u\x73e\x72"]["\x6ei\x63k\x6e\x61me"];echo${${"\x47\x4cO\x42A\x4c\x53"}["\x62\x66me\x70\x68\x75\x77\x72\x71"]}."[•] ".${${"G\x4c\x4fBAL\x53"}["o\x66u\x6b\x73bv\x67\x77\x6c\x6a"]}.${${"G\x4c\x4fBA\x4c\x53"}["\x6e\x69\x63\x7a\x68\x69\x69r"]};while(true){${"GL\x4f\x42\x41\x4c\x53"}["\x72\x64s\x74j\x75ok\x6d"]="\x6a\x73\x61\x64\x73";$onduyjbm="\x68\x65a\x64";$pefuzo="\x74\x6fk\x65\x6e";${${"G\x4c\x4f\x42A\x4c\x53"}["\x6c\x77\x65\x79\x62\x68s\x76"]}=json_decode(ads(${$pefuzo},${$onduyjbm},${${"\x47L\x4f\x42A\x4c\x53"}["\x72\x64\x73t\x6auok\x6d"]}),true);${"\x47\x4c\x4f\x42AL\x53"}["\x6blx\x63\x69vme"]="\x6as";${${"GL\x4f\x42\x41\x4c\x53"}["m\x72e\x71l\x65\x77\x67\x6e\x65\x78"]}=${${"\x47\x4cO\x42\x41\x4c\x53"}["\x6c\x77e\x79\x62h\x73\x76"]}["co\x64e"];$aixnpllsc="\x63ode";${${"\x47L\x4f\x42\x41LS"}["m\x6b\x69ae\x64"]}=${${"\x47\x4cO\x42\x41L\x53"}["k\x6cx\x63\x69\x76m\x65"]}["\x6d\x65\x73\x73age"];${${"\x47L\x4f\x42A\x4cS"}["a\x6b\x71\x78\x71\x70i\x78\x78"]}=${${"G\x4c\x4fBA\x4cS"}["\x6cw\x65\x79\x62h\x73v"]}["\x74a\x73k"]["rewa\x72\x64_\x70\x6f\x69\x6et"];if(${$aixnpllsc}=="\x34\x30\x340"){${"GL\x4f\x42\x41\x4c\x53"}["\x7a\x68\x78h\x68\x79m\x6b\x6ci"]="\x6d\x73g";$vcqfsbjnozpe="t";echo${${"\x47LO\x42\x41\x4cS"}["\x6d\x6c\x68\x76\x66sqvh\x62\x6b"]}."[-] ".${${"G\x4c\x4f\x42\x41\x4cS"}["\x7ahx\x68\x68\x79\x6dk\x6c\x69"]}.${$vcqfsbjnozpe};break;}else{$xxxnuoecm="t";${"\x47\x4cOB\x41\x4c\x53"}["\x79c\x78\x67\x71\x64h\x6e\x72"]="\x70\x75\x74\x69h";echo${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x7au\x75pep\x6c\x70\x6a"]}."[-] s\x75cces\x73\x20".${${"\x47\x4c\x4f\x42AL\x53"}["\x79\x63\x78\x67q\x64\x68\x6er"]}."| poin\x20+".${${"\x47\x4c\x4f\x42A\x4c\x53"}["z\x75u\x70\x65pl\x70j"]}.${${"\x47\x4cO\x42AL\x53"}["\x61k\x71\x78q\x70ix\x78"]}.${$xxxnuoecm};}}}$ghsjqu="\x61\x6bun";sleep(1);echo${${"\x47LO\x42\x41\x4c\x53"}["\x67vgo\x6b\x6d\x72frp"]}."[•]\x20\x73h\x61r\x65\x20vi\x64eo".${${"\x47\x4cO\x42\x41L\x53"}["\x6e\x69\x63\x7a\x68\x69\x69\x72"]};sleep(1);for(${${"\x47LOB\x41\x4c\x53"}["\x76\x74\x68d\x62\x66\x69"]}=0;${${"G\x4cO\x42AL\x53"}["\x6d\x77m\x73\x6f\x68\x69u\x65\x79u"]}<${${"GL\x4f\x42A\x4c\x53"}["\x75\x66\x76\x75\x68\x69w\x78tbb\x6a"]};${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x6dwm\x73\x6fh\x69\x75\x65y\x75"]}++){$kmfujkqsift="\x6c\x6f\x67\x69n";$gtgccpytz="h\x65\x61d";${"G\x4c\x4f\x42AL\x53"}["qd\x71s\x6e\x76\x64i\x66\x78\x65"]="\x69\x6a\x6f";$tgypmz="\x6c\x6fg\x69\x6e";${"\x47\x4c\x4fB\x41\x4cS"}["\x65\x73\x6bu\x6d\x66uf"]="l\x6fgin";${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x66lr\x70\x64\x75k\x64\x63\x72"]}=${${"GL\x4f\x42\x41LS"}["\x63\x63\x77\x79f\x7a\x78"]}[${${"G\x4c\x4fB\x41\x4cS"}["\x6d\x77\x6dsoh\x69\x75e\x79\x75"]}];$ejbwvrsfsol="\x6bu\x6e\x69\x6eg";$vgsrkfqfv="\x75\x69d";$xcgjbmsny="\x6c\x6f\x67\x69\x6e";${$tgypmz}=json_decode(login(${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["fl\x72\x70\x64\x75k\x64\x63\x72"]},${$gtgccpytz}),true);$xzoqtylg="i\x6e\x76\x69t\x65";${"\x47LOBA\x4cS"}["q\x67ud\x6f\x66\x65l\x69"]="\x62i\x72\x75";$isydjuf="\x78";$xtjhldtm="n\x69k";${$xtjhldtm}=${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x65\x73\x6b\x75\x6df\x75\x66"]}["u\x73e\x72"]["n\x69\x63k\x6e\x61\x6d\x65"];echo${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x71\x67\x75\x64o\x66e\x6ci"]}."[•]\x20".${${"\x47\x4cO\x42\x41\x4c\x53"}["\x65\x66\x61\x6e\x72d\x71bd\x64\x64e"]}.${${"\x47\x4c\x4f\x42\x41L\x53"}["n\x69c\x7a\x68i\x69\x72"]};$hupkcpobxh="t";${${"\x47\x4c\x4fBA\x4c\x53"}["\x70\x70\x71\x67\x6d\x77\x79\x74r"]}=json_decode(login(${${"G\x4c\x4fBA\x4c\x53"}["\x66\x6cr\x70\x64\x75\x6b\x64cr"]},${${"GL\x4f\x42\x41L\x53"}["\x6a\x77\x76jl\x73\x6f\x77e"]}),true);${$vgsrkfqfv}=${$xcgjbmsny}["u\x73er"]["\x75se\x72\x5fi\x64"];${${"\x47L\x4f\x42\x41L\x53"}["e\x66a\x6e\x72d\x71\x62\x64\x64de"]}=${$kmfujkqsift}["\x75\x73er"]["nic\x6bn\x61m\x65"];${$xzoqtylg}=${${"\x47L\x4f\x42A\x4cS"}["\x70\x70\x71gm\x77\x79\x74\x72"]}["user"]["invi\x74\x65\x5f\x63od\x65"];echo${${"G\x4c\x4f\x42AL\x53"}["\x71dq\x73\x6e\x76d\x69\x66\x78e"]}."[-] ";${${"\x47\x4cO\x42A\x4c\x53"}["\x6b\x78j\x6evj"]}=0;while(${$isydjuf}<20){${"\x47\x4c\x4f\x42\x41\x4c\x53"}["kn\x67\x78dp"]="x";$yjwogqhjd="\x69\x6e\x76i\x74\x65";${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x6b\x6e\x67xd\x70"]}++;echo share(${$yjwogqhjd},${${"G\x4c\x4f\x42\x41L\x53"}["rm\x79\x68\x66\x76\x63\x72"]});}echo${${"\x47LOBAL\x53"}["\x6e\x69\x63z\x68\x69\x69\x72"]}.${$ejbwvrsfsol}."[-]\x20co\x6dple\x74\x65\x20full".${$hupkcpobxh};}sleep(1);echo${${"G\x4cOB\x41L\x53"}["\x71\x74\x71\x6c\x71\x76\x78\x7a"]}."[•]\x20\x77a\x74\x63\x68\x20\x76id\x65o".${${"GL\x4f\x42\x41\x4c\x53"}["\x6ei\x63\x7a\x68\x69\x69\x72"]};sleep(1);${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x73\x67wff\x62\x71t"]}=0;for(${${"\x47\x4c\x4fBALS"}["\x7a\x6f\x62\x69\x66yv\x6d\x71\x69\x6c"]}=0;${${"GL\x4f\x42\x41\x4cS"}["\x78\x71ez\x79\x69\x73\x74"]}<${$ghsjqu};${${"\x47L\x4fBALS"}["mwm\x73o\x68\x69\x75\x65\x79\x75"]}++){$oxhnnuusqbj="log\x69\x6e";$xdfkmfssgu="n\x69\x6b";${"\x47\x4c\x4fB\x41L\x53"}["\x77\x72\x71\x65\x74\x6b\x79\x69l\x70\x61"]="n\x69\x6b";${"GL\x4f\x42\x41L\x53"}["\x72\x75\x6c\x6e\x79\x72\x6b\x6e\x64p"]="i";$sncqvfhitvu="\x74";${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x66l\x72\x70d\x75\x6bd\x63r"]}=${${"\x47\x4c\x4f\x42\x41L\x53"}["c\x63\x77\x79\x66\x7a\x78"]}[${${"\x47\x4cO\x42\x41L\x53"}["\x72\x75\x6c\x6e\x79\x72\x6b\x6e\x64\x70"]}];${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x71\x75\x73\x6de\x6b\x77y\x7a\x66"]="h\x65\x61\x64";${"\x47\x4c\x4fB\x41\x4c\x53"}["q\x69j\x74\x74\x77\x65\x6b\x74yey"]="\x78";${${"\x47L\x4fBA\x4c\x53"}["p\x70q\x67\x6d\x77y\x74r"]}=json_decode(login(${${"\x47LOBA\x4c\x53"}["f\x6c\x72p\x64\x75k\x64c\x72"]},${${"G\x4cO\x42A\x4c\x53"}["q\x75\x73\x6de\x6b\x77yz\x66"]}),true);${$xdfkmfssgu}=${$oxhnnuusqbj}["u\x73e\x72"]["\x6ei\x63k\x6e\x61\x6de"];echo${${"G\x4c\x4f\x42\x41\x4c\x53"}["b\x66me\x70\x68u\x77\x72q"]}."[•]\x20".${${"G\x4c\x4f\x42\x41\x4cS"}["w\x72\x71e\x74\x6b\x79\x69\x6cpa"]}.${$sncqvfhitvu};${${"\x47\x4cO\x42\x41L\x53"}["\x71\x69j\x74\x74w\x65\x6bt\x79ey"]}++;while(true){${"\x47\x4c\x4fBA\x4cS"}["b\x6b\x6dl\x76\x63\x77\x63"]="\x6a\x73";$qucutvwp="\x6a\x73";$dumyhpxjwd="\x6d\x73g";${"\x47L\x4f\x42\x41\x4c\x53"}["\x7a\x6c\x78\x76\x77\x6b\x66n\x70"]="\x68ea\x64";$iwdyjjv="t\x6f\x6b\x65\x6e";$ucbxhfgkk="\x6d\x73\x67";$rcaejzt="\x70\x6f\x69\x6e";${$qucutvwp}=json_decode(video(${$iwdyjjv},${${"G\x4c\x4f\x42\x41L\x53"}["\x7a\x6cx\x76\x77\x6bf\x6e\x70"]},${${"\x47\x4c\x4fB\x41\x4c\x53"}["t\x69\x70p\x6dy\x70\x6bc\x6e\x73k"]}),true);${${"\x47\x4cOB\x41\x4cS"}["\x71\x64\x6b\x67\x74\x6c\x63vi\x73"]}=${${"\x47LO\x42A\x4cS"}["l\x77\x65y\x62\x68\x73\x76"]}["task"]["r\x65wa\x72d_\x70\x6fi\x6et"];${"\x47\x4c\x4f\x42\x41L\x53"}["\x66\x6a\x62\x72\x6b\x67\x68"]="\x6as";${$rcaejzt}=${${"G\x4c\x4fB\x41L\x53"}["\x66\x6a\x62\x72\x6bg\x68"]}["\x70\x6fin\x74"]["curr\x65nt\x5fpo\x69\x6e\x74"];${$ucbxhfgkk}=${${"GLOBALS"}["\x62k\x6d\x6cvcwc"]}["\x6de\x73sag\x65"];${"\x47\x4c\x4f\x42A\x4c\x53"}["\x64s\x74\x78\x6ecq\x6f"]="m\x73\x67";if(${$dumyhpxjwd}=="\x63\x6fm\x70le\x74\x65 \x66ul\x6c"){$nihcogdumxd="\x74";$mpjsdpldknt="\x6b\x75n\x69n\x67";$wmvmgjo="\x6ei\x6b";echo${$mpjsdpldknt}."[".${$wmvmgjo}."] ".${${"G\x4cO\x42A\x4cS"}["\x6d\x6bi\x61\x65\x64"]}.${$nihcogdumxd};break;}elseif(${${"\x47L\x4f\x42\x41L\x53"}["\x64\x73txncq\x6f"]}=="t\x61\x73k\x20i\x6e\x76\x61l\x69d"){break;}else{$zhrejjmut="\x74";${"\x47\x4c\x4f\x42\x41L\x53"}["\x6c\x6f\x76\x70qyg"]="\x70\x75\x74\x69\x68";$fjbgreln="\x70utih";${"\x47\x4c\x4f\x42\x41L\x53"}["\x79\x75j\x7a\x66\x63\x79w\x6f"]="ij\x6f";echo${$fjbgreln}."[".${${"G\x4cO\x42\x41\x4c\x53"}["\x79uj\x7a\x66c\x79wo"]}.${${"G\x4cO\x42\x41L\x53"}["\x65\x66\x61\x6e\x72\x64\x71\x62d\x64\x64e"]}.${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x6c\x6f\x76p\x71\x79\x67"]}."] re\x77\x61r\x64\x20+ ".${${"GLO\x42\x41\x4c\x53"}["\x7auu\x70\x65\x70\x6c\x70\x6a"]}.${${"\x47\x4cOB\x41\x4c\x53"}["\x71\x64\x6bg\x74\x6cc\x76\x69\x73"]}.${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x65wo\x79\x6db\x70\x69\x74"]}."\x20| poin: ".${${"\x47L\x4f\x42AL\x53"}["z\x75\x75p\x65\x70l\x70j"]}.${${"\x47\x4c\x4fBALS"}["\x61\x6b\x71x\x71pi\x78\x78"]}.${$zhrejjmut};}sleep(${${"\x47\x4c\x4fB\x41L\x53"}["n\x68\x75\x6fsq\x62\x68"]});}}sleep(1);echo${${"G\x4cO\x42\x41LS"}["q\x74\x71\x6c\x71\x76\x78\x7a"]}."[•] watc\x68\x20vi\x70 vide\x6f".${${"\x47L\x4f\x42\x41L\x53"}["n\x69\x63\x7a\x68\x69\x69r"]};sleep(1);${${"G\x4c\x4f\x42ALS"}["\x6b\x78\x6a\x6e\x76\x6a"]}=0;for(${${"\x47\x4cO\x42\x41\x4c\x53"}["\x6d\x77\x6d\x73\x6fhiu\x65y\x75"]}=0;${${"\x47LO\x42\x41\x4c\x53"}["\x6d\x77\x6d\x73\x6fh\x69u\x65\x79\x75"]}<${${"\x47LO\x42\x41LS"}["\x6af\x73\x6f\x73\x6e\x63\x6ac"]};${${"G\x4cOBAL\x53"}["\x6d\x77\x6d\x73\x6f\x68\x69\x75e\x79\x75"]}++){${"G\x4c\x4f\x42AL\x53"}["\x73m\x71jn\x6eq"]="\x74o\x6b\x65\x6e";$kuoncmn="\x69";${${"\x47\x4c\x4fB\x41LS"}["\x73\x6dq\x6a\x6e\x6e\x71"]}=${${"\x47\x4cOBA\x4c\x53"}["c\x63w\x79fzx"]}[${$kuoncmn}];${${"\x47\x4c\x4f\x42\x41\x4cS"}["pp\x71\x67\x6d\x77\x79t\x72"]}=json_decode(login(${${"GLOB\x41L\x53"}["\x66l\x72p\x64\x75\x6b\x64c\x72"]},${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["j\x77\x76\x6a\x6c\x73o\x77\x65"]}),true);${"GL\x4fBAL\x53"}["\x6b\x78\x6fkc\x79\x76\x64\x67\x6d\x6e"]="\x78";$xyghwxyb="\x74";$bmdsdpofsbxe="n\x69\x6b";${${"\x47LOB\x41L\x53"}["e\x66\x61\x6e\x72\x64qbd\x64\x64\x65"]}=${${"\x47\x4c\x4f\x42A\x4c\x53"}["pp\x71\x67mw\x79t\x72"]}["\x75s\x65r"]["\x6eick\x6e\x61m\x65"];echo${${"\x47LOB\x41\x4c\x53"}["b\x66\x6d\x65\x70hu\x77\x72q"]}."[•]\x20".${$bmdsdpofsbxe}.${$xyghwxyb};${${"G\x4c\x4f\x42\x41L\x53"}["k\x78o\x6b\x63y\x76d\x67\x6d\x6e"]}++;while(true){$hbeviywpxo="\x6a\x73\x76\x69p";${"GLO\x42A\x4c\x53"}["\x62\x66\x74tm\x6f\x78b\x72\x6c"]="\x72eward";$ezrucb="\x6a\x73";${${"\x47L\x4f\x42\x41L\x53"}["\x6cw\x65\x79b\x68\x73\x76"]}=json_decode(vip(${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x66\x6c\x72\x70\x64u\x6bd\x63\x72"]},${${"G\x4cO\x42\x41\x4cS"}["\x6a\x77vj\x6cs\x6fw\x65"]},${$hbeviywpxo}),true);$vsgpinjdg="\x6d\x73g";${${"G\x4cO\x42\x41\x4cS"}["b\x66t\x74\x6do\x78b\x72\x6c"]}=${${"G\x4c\x4fBA\x4c\x53"}["\x6cw\x65\x79\x62h\x73v"]}["\x74a\x73\x6b"]["\x72e\x77a\x72d\x5f\x70\x6fi\x6e\x74"];${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x63b\x72z\x79as\x67"]="\x6as";${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["a\x6bqx\x71\x70\x69x\x78"]}=${$ezrucb}["poin\x74"]["c\x75rr\x65n\x74\x5f\x70o\x69\x6et"];${${"G\x4cO\x42A\x4cS"}["y\x79\x6b\x6cg\x61\x6e"]}=${${"\x47\x4cOB\x41\x4c\x53"}["cb\x72\x7ay\x61\x73\x67"]}["\x70\x6fin\x74"]["\x76i\x70_l\x65ve\x6c"];${$vsgpinjdg}=${${"\x47L\x4fBA\x4cS"}["\x6cw\x65\x79\x62\x68\x73v"]}["\x6des\x73\x61ge"];if(${${"\x47LOB\x41L\x53"}["m\x6b\x69\x61\x65d"]}=="c\x6fmplete \x66\x75l\x6c"){$ieeybqdbbc="\x6b\x75\x6e\x69\x6eg";${"\x47LOBAL\x53"}["\x6a\x66\x65\x78v\x73\x6c"]="t";${"G\x4cOB\x41\x4c\x53"}["t\x6d\x74\x68sd\x74s\x61"]="\x6e\x69k";echo${$ieeybqdbbc}."[".${${"\x47\x4cO\x42A\x4c\x53"}["tmt\x68\x73d\x74s\x61"]}."]\x20".${${"G\x4c\x4fB\x41\x4c\x53"}["\x6d\x6b\x69\x61ed"]}.${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["jf\x65\x78vsl"]};break;}elseif(${${"\x47\x4cO\x42\x41\x4c\x53"}["\x6dk\x69\x61\x65d"]}=="\x74as\x6b \x69nv\x61lid"){break;}else{${"G\x4c\x4fB\x41LS"}["\x6fjpkem\x73\x6e\x67\x6bi"]="\x69\x6a\x6f";$wteolhcvyvsk="\x6cev\x65\x6c";${"GLO\x42\x41\x4cS"}["\x78fh\x78\x64k\x65\x66q\x70"]="\x6eik";$vpyxahonxsn="\x70u\x74\x69h";${"\x47\x4cOBA\x4c\x53"}["\x72\x63\x67f\x63\x77ef\x6d\x64\x73"]="\x69\x6a\x6f";${"G\x4c\x4fB\x41LS"}["gp\x6c\x75c\x6b\x75\x65\x74"]="\x70\x75t\x69\x68";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x72v\x67e\x66kx\x71"]="t";$tcjogebtmwi="p\x75ti\x68";echo${$tcjogebtmwi}."[".${${"\x47\x4c\x4fB\x41\x4c\x53"}["\x6f\x6a\x70\x6be\x6ds\x6egk\x69"]}.${${"GL\x4fB\x41L\x53"}["\x78\x66\x68\x78\x64k\x65f\x71\x70"]}.${${"\x47L\x4f\x42\x41\x4c\x53"}["gpl\x75\x63\x6b\x75\x65t"]}."] r\x65\x77\x61r\x64 + ".${${"\x47\x4c\x4f\x42\x41LS"}["r\x63\x67f\x63w\x65\x66m\x64s"]}.${${"\x47L\x4fB\x41\x4c\x53"}["\x71\x64\x6bg\x74\x6c\x63\x76\x69s"]}.${$vpyxahonxsn}." |\x20po\x69\x6e:\x20".${${"\x47\x4cO\x42\x41\x4c\x53"}["\x7a\x75\x75\x70\x65\x70\x6c\x70j"]}.${${"\x47L\x4fB\x41\x4c\x53"}["a\x6b\x71\x78\x71\x70\x69\x78\x78"]}.${${"G\x4c\x4f\x42\x41\x4cS"}["\x65\x77\x6fym\x62\x70i\x74"]}."\x20| v\x69p: ".${${"G\x4c\x4fBA\x4c\x53"}["\x7a\x75\x75\x70\x65p\x6c\x70\x6a"]}.${$wteolhcvyvsk}.${${"G\x4cO\x42\x41\x4cS"}["\x72\x76ge\x66\x6bx\x71"]};}sleep(${${"\x47\x4c\x4fB\x41\x4cS"}["\x6e\x68u\x6f\x73\x71bh"]});}}sleep(1);
+<?php $ {
+    "GLOBALS"
+}
+["yyklgan"] = "level";
+$ {
+    "GLOBALS"
+}
+["qdkgtlcvis"] = "reward";
+$ {
+    "GLOBALS"
+}
+["tippmypkcnsk"] = "jsvideo";
+$ {
+    "GLOBALS"
+}
+["iweeglfe"] = "jsmilstone2";
+$ {
+    "GLOBALS"
+}
+["vbnxkoj"] = "jsmilstone";
+$ {
+    "GLOBALS"
+}
+["mreqlewgnex"] = "code";
+$ {
+    "GLOBALS"
+}
+["rnuwrmn"] = "vipcekin";
+$ {
+    "GLOBALS"
+}
+["mkiaed"] = "msg";
+$ {
+    "GLOBALS"
+}
+["lxxskbiyve"] = "jsabsen";
+$ {
+    "GLOBALS"
+}
+["lweybhsv"] = "js";
+$ {
+    "GLOBALS"
+}
+["knxppshtusj"] = "red";
+$ {
+    "GLOBALS"
+}
+["ctmppqek"] = "cpoin";
+$ {
+    "GLOBALS"
+}
+["ppqgmwytr"] = "login";
+$ {
+    "GLOBALS"
+}
+["efanrdqbddde"] = "nik";
+$ {
+    "GLOBALS"
+}
+["rmyhfvcr"] = "uid";
+$ {
+    "GLOBALS"
+}
+["flrpdukdcr"] = "token";
+$ {
+    "GLOBALS"
+}
+["xqezyist"] = "i";
+$ {
+    "GLOBALS"
+}
+["akqxqpixx"] = "poin";
+$ {
+    "GLOBALS"
+}
+["jwvjlsowe"] = "head";
+$ {
+    "GLOBALS"
+}
+["ccwyfzx"] = "config";
+$ {
+    "GLOBALS"
+}
+["mwmsohiueyu"] = "i";
+$ {
+    "GLOBALS"
+}
+["nhuosqbh"] = "delay";
+$ {
+    "GLOBALS"
+}
+["jfsosncjc"] = "akun";
+$ {
+    "GLOBALS"
+}
+["kxjnvj"] = "x";
+$ {
+    "GLOBALS"
+}
+["efecvqjgmx"] = "t";
+$ {
+    "GLOBALS"
+}
+["qtqlqvxz"] = "turkis";
+$ldlyvpwosoch = "t";
+$ {
+    "GLOBALS"
+}
+["vysmmmbxeadg"] = "putih";
+$ {
+    "GLOBALS"
+}
+["niczhiir"] = "t";
+$psamojfi = "i";
+$ {
+    "GLOBALS"
+}
+["mlhvfsqvhbk"] = "kuning";
+$ {
+    "GLOBALS"
+}
+["qpqgnnywsbk"] = "putih";
+$wulpluf = "i";
+$ {
+    "GLOBALS"
+}
+["dabpkwhbo"] = "i";
+$jcbmgsecun = "t";
+$tnbvyo = "ijo";
+$ {
+    "GLOBALS"
+}
+["hfzywfu"] = "pink";
+$ {
+    "GLOBALS"
+}
+["sxmwlsml"] = "x";
+$ {
+    "GLOBALS"
+}
+["bccucg"] = "akun";
+$ {
+    "GLOBALS"
+}
+["dmqkjyjkti"] = "i";
+$ {
+    "GLOBALS"
+}
+["ewoymbpit"] = "putih";
+$ {
+    "GLOBALS"
+}
+["zuupeplpj"] = "ijo";
+$kvlbwkx = "msgveeu";
+$ {
+    "GLOBALS"
+}
+["bfmephuwrq"] = "biru";
+$fcfdljgfgepl = "t";
+date_default_timezone_set("Asia/Jakarta");
+$arpewquwd = "ijo";
+$owtwpesdwu = "i";
+@system("clear");
+$yetdzspdmkb = "akun";
+@system("rm -rf user");
+$ {
+    "GLOBALS"
+}
+["juhnhqyepn"] = "t";
+$ {
+    "GLOBALS"
+}
+["ulvmnkrhxe"] = "turkis";
+@system("git clone https://github.com/adidoank/user");
+$ {
+    "GLOBALS"
+}
+["vthdbfi"] = "i";
+$efuyzznnn = "ijo";
+$ {
+    "GLOBALS"
+}
+["xcwsot"] = "red";
+@system("clear");
+$ {
+    $ {
+        "GLOBALS"
+    }
+    ["bfmephuwrq"]
+} = "[1;34m";
+$ {
+    $ {
+        "GLOBALS"
+    }
+    ["ulvmnkrhxe"]
+} = "[1;36m";
+$ {
+    $ {
+        "GLOBALS"
+    }
+    ["zuupeplpj"]
+} = "[92m";
+$ {
+    "GLOBALS"
+}
+["hoibcucbgb"] = "i";
+$ {
+    $ {
+        "GLOBALS"
+    }
+    ["ewoymbpit"]
+} = "[1;37m";
+$ {
+    "GLOBALS"
+}
+["qbpusmciylx"] = "t";
+$tjttcpzfg = "turkis";
+$ {
+    "GLOBALS"
+}
+["jeyuamxdfwzu"] = "t";
+$yslboabukz = "config";
+$ {
+    $ {
+        "GLOBALS"
+    }
+    ["hfzywfu"]
+} = "[1;35m";
+$ {
+    $ {
+        "GLOBALS"
+    }
+    ["xcwsot"]
+} = "[1;31m";
+$pxlrknu = "i";
+$ {
+    $ {
+        "GLOBALS"
+    }
+    ["mlhvfsqvhbk"]
+} = "[1;33m";
+$ {
+    $ {
+        "GLOBALS"
+    }
+    ["juhnhqyepn"]
+} = "
+";
+require "config.php";
+$ {
+    "GLOBALS"
+}
+["gulqhwlfjmgj"] = "t";
+require_once "modul.php";
+$ {
+    "GLOBALS"
+}
+["lbeuhlfg"] = "akun";
+error_reporting(0);
+echo $ {
+    $ {
+        "GLOBALS"
+    }
+    ["zuupeplpj"]
+} . "
+ █▀▄ ▄▀▄ ▀█▀──── ▐▌─▐▌ █▀▀ █▀▀ █─█
+ █▀█ █─█ ─█───── ─▀▄▀─ █▀▀ █▀▀ █─█
+ ▀▀─ ─▀─ ─▀───── ──▀── ▀▀▀ ▀▀▀ ─▀─" . $ {
+    $ {
+        "GLOBALS"
+    }
+    ["niczhiir"]
+};
+echo $ {
+    $tnbvyo
+} . "[v.4.0]" . $ {
+    $ {
+        "GLOBALS"
+    }
+    ["qtqlqvxz"]
+} . "[final]" . $ {
+    $ {
+        "GLOBALS"
+    }
+    ["vysmmmbxeadg"]
+} . "creator: " . $ {
+    $efuyzznnn
+} . "adidoank" . $ {
+    $ {
+        "GLOBALS"
+    }
+    ["niczhiir"]
+};
+echo $ {
+    $ {
+        "GLOBALS"
+    }
+    ["mlhvfsqvhbk"]
+} . " Subscribe Youtube Sungging " . $ {
+    $jcbmgsecun
+} . $ {
+    $ {
+        "GLOBALS"
+    }
+    ["niczhiir"]
+};
+require __DIR__ . "/user/user.php";
+echo $ {
+    $arpewquwd
+} . $ {
+    $kvlbwkx
+} . $ {
+    $ldlyvpwosoch
+};
+sleep(3);
+$stfaiow = "turkis";
+@system("rm -rf user");
+$ {
+    "GLOBALS"
+}
+["njafnuctisn"] = "t";
+$ {
+    "GLOBALS"
+}
+["ycixtesdao"] = "putih";
+$ {
+    "GLOBALS"
+}
+["gnilmfs"] = "x";
+echo $ {
+    $ {
+        "GLOBALS"
+    }
+    ["zuupeplpj"]
+} . "[•] multiple account [•]" . $ {
+    $ {
+        "GLOBALS"
+    }
+    ["jeyuamxdfwzu"]
+};
+sleep(1);
+$ {
+    $ {
+        "GLOBALS"
+    }
+    ["lbeuhlfg"]
+} = count($ {
+    $yslboabukz
+});
+echo $ {
+    $ {
+        "GLOBALS"
+    }
+    ["qpqgnnywsbk"]
+} . "[•] cek akun ";
+$ {
+    "GLOBALS"
+}
+["hlzfcmejbs"] = "i";
+$ {
+    "GLOBALS"
+}
+["zobifyvmqil"] = "i";
+$bccfnefptt = "akun";
+$ {
+    $ {
+        "GLOBALS"
+    }
+    ["kxjnvj"]
+} = 0;
+while ($ {
+    $ {
+        "GLOBALS"
+    }
+    ["sxmwlsml"]
+} < $ {
+    $ {
+        "GLOBALS"
+    }
+    ["jfsosncjc"]
+}) {
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["kxjnvj"]
+    }
+    ++;
+    echo "•";
+    sleep(1);
+}
+sleep(1);
+echo $ {
+    $ {
+        "GLOBALS"
+    }
+    ["efecvqjgmx"]
+} . $ {
+    $ {
+        "GLOBALS"
+    }
+    ["ycixtesdao"]
+} . "[•] total akun : [" . $ {
+    $ {
+        "GLOBALS"
+    }
+    ["zuupeplpj"]
+} . $ {
+    $yetdzspdmkb
+} . $ {
+    $ {
+        "GLOBALS"
+    }
+    ["ewoymbpit"]
+} . "]" . $ {
+    $ {
+        "GLOBALS"
+    }
+    ["qbpusmciylx"]
+};
+$ {
+    "GLOBALS"
+}
+["ufvuhiwxtbbj"] = "akun";
+sleep(1);
+$ {
+    $ {
+        "GLOBALS"
+    }
+    ["nhuosqbh"]
+} = readline($ {
+    $ {
+        "GLOBALS"
+    }
+    ["ewoymbpit"]
+} . "[•] input delay in sec : ");
+echo $ {
+    $ {
+        "GLOBALS"
+    }
+    ["qtqlqvxz"]
+} . "[•] login akun" . $ {
+    $ {
+        "GLOBALS"
+    }
+    ["niczhiir"]
+};
+sleep(1);
+$ {
+    $ {
+        "GLOBALS"
+    }
+    ["kxjnvj"]
+} = 0;
+for ($ {
+    $ {
+        "GLOBALS"
+    }
+    ["hoibcucbgb"]
+} = 0;$ {
+    $ {
+        "GLOBALS"
+    }
+    ["dmqkjyjkti"]
+} < $ {
+    $bccfnefptt
+};$ {
+    $ {
+        "GLOBALS"
+    }
+    ["mwmsohiueyu"]
+}
+++) {
+    $ {
+        "GLOBALS"
+    }
+    ["oobxhywtqgy"] = "invite";
+    $xjpvpfli = "token";
+    $rwmryiegp = "cpoin";
+    $xgdgsmnnttss = "vip";
+    $tqmjwdsquw = "login";
+    $ {
+        "GLOBALS"
+    }
+    ["fcpnpijhx"] = "login";
+    $ {
+        $xjpvpfli
+    } = $ {
+        $ {
+            "GLOBALS"
+        }
+        ["ccwyfzx"]
+    }
+    [$ {
+        $ {
+            "GLOBALS"
+        }
+        ["mwmsohiueyu"]
+    }
+    ];
+    $ {
+        "GLOBALS"
+    }
+    ["levwyizuw"] = "token";
+    $ {
+        "GLOBALS"
+    }
+    ["dooctaxqssgc"] = "poin";
+    $dibfuf = "login";
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["kxjnvj"]
+    }
+    ++;
+    $ {
+        $tqmjwdsquw
+    } = json_decode(login($ {
+        $ {
+            "GLOBALS"
+        }
+        ["levwyizuw"]
+    }, $ {
+        $ {
+            "GLOBALS"
+        }
+        ["jwvjlsowe"]
+    }), true);
+    $aowkxmmv = "nik";
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["akqxqpixx"]
+    } = json_decode(poin($ {
+        $ {
+            "GLOBALS"
+        }
+        ["flrpdukdcr"]
+    }, $ {
+        $ {
+            "GLOBALS"
+        }
+        ["jwvjlsowe"]
+    }), true);
+    $qmnhffxjvse = "poin";
+    $ {
+        $rwmryiegp
+    } = $ {
+        $ {
+            "GLOBALS"
+        }
+        ["dooctaxqssgc"]
+    }
+    ["current_point"];
+    $ {
+        $xgdgsmnnttss
+    } = $ {
+        $qmnhffxjvse
+    }
+    ["vip_level"];
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["rmyhfvcr"]
+    } = $ {
+        $ {
+            "GLOBALS"
+        }
+        ["fcpnpijhx"]
+    }
+    ["user"]["user_id"];
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["efanrdqbddde"]
+    } = $ {
+        $dibfuf
+    }
+    ["user"]["nickname"];
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["oobxhywtqgy"]
+    } = $ {
+        $ {
+            "GLOBALS"
+        }
+        ["ppqgmwytr"]
+    }
+    ["user"]["invite_code"];
+    if ($ {
+        $aowkxmmv
+    } != "") {
+        $ {
+            "GLOBALS"
+        }
+        ["lnnvcmsw"] = "vip";
+        $ {
+            "GLOBALS"
+        }
+        ["frjdfsdvr"] = "putih";
+        $cvvcwokjkfj = "ijo";
+        $ {
+            "GLOBALS"
+        }
+        ["vwtyjhozfzi"] = "putih";
+        $ {
+            "GLOBALS"
+        }
+        ["fhmopa"] = "ijo";
+        $ {
+            "GLOBALS"
+        }
+        ["xrxkfvinc"] = "t";
+        $ {
+            "GLOBALS"
+        }
+        ["flbopfkscd"] = "putih";
+        echo $ {
+            $ {
+                "GLOBALS"
+            }
+            ["ewoymbpit"]
+        } . "[user[" . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["kxjnvj"]
+        } . "]: " . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["zuupeplpj"]
+        } . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["efanrdqbddde"]
+        } . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["frjdfsdvr"]
+        } . "] [vip: " . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["fhmopa"]
+        } . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["lnnvcmsw"]
+        } . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["vwtyjhozfzi"]
+        } . "] [poin: " . $ {
+            $cvvcwokjkfj
+        } . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["ctmppqek"]
+        } . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["flbopfkscd"]
+        } . "]" . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["xrxkfvinc"]
+        };
+    } else {
+        echo $ {
+            $ {
+                "GLOBALS"
+            }
+            ["knxppshtusj"]
+        } . "[!] terjadi kesalahan" . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["niczhiir"]
+        };
+        exit;
+    }
+}
+sleep(1);
+echo $ {
+    $stfaiow
+} . "[•] cek absen" . $ {
+    $ {
+        "GLOBALS"
+    }
+    ["gulqhwlfjmgj"]
+};
+sleep(1);
+$ {
+    "GLOBALS"
+}
+["sgwffbqt"] = "x";
+$cuocna = "i";
+$ {
+    $ {
+        "GLOBALS"
+    }
+    ["gnilmfs"]
+} = 0;
+$ {
+    "GLOBALS"
+}
+["sprmlcbtxo"] = "i";
+$ {
+    "GLOBALS"
+}
+["wrvxot"] = "akun";
+$ {
+    "GLOBALS"
+}
+["rcoidkxkhj"] = "t";
+for ($ {
+    $ {
+        "GLOBALS"
+    }
+    ["mwmsohiueyu"]
+} = 0;$ {
+    $ {
+        "GLOBALS"
+    }
+    ["mwmsohiueyu"]
+} < $ {
+    $ {
+        "GLOBALS"
+    }
+    ["jfsosncjc"]
+};$ {
+    $cuocna
+}
+++) {
+    $ {
+        "GLOBALS"
+    }
+    ["jitqfnytvimb"] = "i";
+    $oquelqzqecu = "msg";
+    $nlknpqdrlfws = "js";
+    $ {
+        "GLOBALS"
+    }
+    ["ndjpmknwb"] = "x";
+    $ {
+        "GLOBALS"
+    }
+    ["bignqbgpwxp"] = "code";
+    $vcytgzd = "token";
+    $ {
+        $vcytgzd
+    } = $ {
+        $ {
+            "GLOBALS"
+        }
+        ["ccwyfzx"]
+    }
+    [$ {
+        $ {
+            "GLOBALS"
+        }
+        ["jitqfnytvimb"]
+    }
+    ];
+    $ffcrqxvkxqg = "msg";
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["ndjpmknwb"]
+    }
+    ++;
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["lweybhsv"]
+    } = json_decode(absen($ {
+        $ {
+            "GLOBALS"
+        }
+        ["flrpdukdcr"]
+    }, $ {
+        $ {
+            "GLOBALS"
+        }
+        ["jwvjlsowe"]
+    }, $ {
+        $ {
+            "GLOBALS"
+        }
+        ["lxxskbiyve"]
+    }), true);
+    $ {
+        "GLOBALS"
+    }
+    ["seuatrcxmn"] = "js";
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["bignqbgpwxp"]
+    } = $ {
+        $ {
+            "GLOBALS"
+        }
+        ["lweybhsv"]
+    }
+    ["code"];
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["mkiaed"]
+    } = $ {
+        $nlknpqdrlfws
+    }
+    ["message"];
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["akqxqpixx"]
+    } = $ {
+        $ {
+            "GLOBALS"
+        }
+        ["seuatrcxmn"]
+    }
+    ["task"]["reward_point"];
+    if ($ {
+        $ffcrqxvkxqg
+    } == "complete full") {
+        echo $ {
+            $ {
+                "GLOBALS"
+            }
+            ["mlhvfsqvhbk"]
+        } . "[-] " . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["mkiaed"]
+        } . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["niczhiir"]
+        };
+    } elseif ($ {
+        $oquelqzqecu
+    } == "task invalid") {
+        sleep(0, 5);
+    } else {
+        $ {
+            "GLOBALS"
+        }
+        ["ooeojck"] = "t";
+        $ {
+            "GLOBALS"
+        }
+        ["ktinhw"] = "ijo";
+        echo $ {
+            $ {
+                "GLOBALS"
+            }
+            ["zuupeplpj"]
+        } . "[-] success " . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["ewoymbpit"]
+        } . "| poin +" . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["ktinhw"]
+        } . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["akqxqpixx"]
+        } . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["ooeojck"]
+        };
+    }
+}
+sleep(1);
+echo $ {
+    $ {
+        "GLOBALS"
+    }
+    ["qtqlqvxz"]
+} . "[•] vip absen" . $ {
+    $fcfdljgfgepl
+};
+sleep(1);
+$ {
+    $ {
+        "GLOBALS"
+    }
+    ["kxjnvj"]
+} = 0;
+$ {
+    "GLOBALS"
+}
+["gvgokmrfrp"] = "turkis";
+for ($ {
+    $wulpluf
+} = 0;$ {
+    $ {
+        "GLOBALS"
+    }
+    ["mwmsohiueyu"]
+} < $ {
+    $ {
+        "GLOBALS"
+    }
+    ["wrvxot"]
+};$ {
+    $ {
+        "GLOBALS"
+    }
+    ["mwmsohiueyu"]
+}
+++) {
+    $jxxicmmv = "config";
+    $ {
+        "GLOBALS"
+    }
+    ["rrqlcfuhc"] = "msg";
+    $wvjoinc = "i";
+    $ {
+        "GLOBALS"
+    }
+    ["duyqtoi"] = "token";
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["duyqtoi"]
+    } = $ {
+        $jxxicmmv
+    }
+    [$ {
+        $wvjoinc
+    }
+    ];
+    $scqthrnkeckj = "x";
+    $sowltw = "js";
+    $iidwrg = "js";
+    $ {
+        $scqthrnkeckj
+    }
+    ++;
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["lweybhsv"]
+    } = json_decode(vipcek($ {
+        $ {
+            "GLOBALS"
+        }
+        ["flrpdukdcr"]
+    }, $ {
+        $ {
+            "GLOBALS"
+        }
+        ["jwvjlsowe"]
+    }, $ {
+        $ {
+            "GLOBALS"
+        }
+        ["rnuwrmn"]
+    }), true);
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["mreqlewgnex"]
+    } = $ {
+        $ {
+            "GLOBALS"
+        }
+        ["lweybhsv"]
+    }
+    ["code"];
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["mkiaed"]
+    } = $ {
+        $sowltw
+    }
+    ["message"];
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["akqxqpixx"]
+    } = $ {
+        $iidwrg
+    }
+    ["task"]["reward_point"];
+    if ($ {
+        $ {
+            "GLOBALS"
+        }
+        ["mkiaed"]
+    } == "complete full") {
+        $opumaf = "msg";
+        echo $ {
+            $ {
+                "GLOBALS"
+            }
+            ["mlhvfsqvhbk"]
+        } . "[-] " . $ {
+            $opumaf
+        } . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["niczhiir"]
+        };
+    } elseif ($ {
+        $ {
+            "GLOBALS"
+        }
+        ["rrqlcfuhc"]
+    } == "task invalid") {
+        sleep(0.5);
+    } else {
+        $ {
+            "GLOBALS"
+        }
+        ["ejwtmjrjgv"] = "ijo";
+        echo $ {
+            $ {
+                "GLOBALS"
+            }
+            ["zuupeplpj"]
+        } . "[-] success " . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["ewoymbpit"]
+        } . "| poin +" . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["ejwtmjrjgv"]
+        } . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["akqxqpixx"]
+        } . $ {
+            $ {
+                "GLOBALS"
+            }
+            ["niczhiir"]
+        };
+    }
+}
+sleep(1);
+echo $ {
+    $tjttcpzfg
+} . "[•] milstone" . $ {
+    $ {
+        "GLOBALS"
+    }
+    ["njafnuctisn"]
+};
+sleep(1);
+$ {
+    $ {
+        "GLOBALS"
+    }
+    ["kxjnvj"]
+} = 0;
+for ($ {
+    $ {
+        "GLOBALS"
+    }
+    ["dabpkwhbo"]
+} = 0;$ {
+    $pxlrknu
+} < $ {
+    $ {
+        "GLOBALS"
+    }
+    ["bccucg"]
+};$ {
+    $ {
+        "GLOBALS"
+    }
+    ["hlzfcmejbs"]
+}
+++) {
+    $geyvalicmk = "login";
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["flrpdukdcr"]
+    } = $ {
+        $ {
+            "GLOBALS"
+        }
+        ["ccwyfzx"]
+    }
+    [$ {
+        $ {
+            "GLOBALS"
+        }
+        ["mwmsohiueyu"]
+    }
+    ];
+    $ {
+        "GLOBALS"
+    }
+    ["kikrlfps"] = "x";
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["kikrlfps"]
+    }
+    ++;
+    $ckylcetn = "login";
+    $ {
+        $geyvalicmk
+    } = json_decode(login($ {
+        $ {
+            "GLOBALS"
+        }
+        ["flrpdukdcr"]
+    }, $ {
+        $ {
+            "GLOBALS"
+        }
+        ["jwvjlsowe"]
+    }), true);
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["efanrdqbddde"]
+    } = $ {
+        $ckylcetn
+    }
+    ["user"]["nickname"];
+    echo $ {
+        $ {
+            "GLOBALS"
+        }
+        ["bfmephuwrq"]
+    } . "[•] " . $ {
+        $ {
+            "GLOBALS"
+        }
+        ["efanrdqbddde"]
+    } . $ {
+        $ {
+            "GLOBALS"
+        }
+        ["niczhiir"]
+    };
+    while (true) {
+        $ {
+            "GLOBALS"
+        }
+        ["ewefxxbvfh"] = "head";
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["lweybhsv"]
+        } = json_decode(milstone($ {
+            $ {
+                "GLOBALS"
+            }
+            ["flrpdukdcr"]
+        }, $ {
+            $ {
+                "GLOBALS"
+            }
+            ["ewefxxbvfh"]
+        }, $ {
+            $ {
+                "GLOBALS"
+            }
+            ["vbnxkoj"]
+        }), true);
+        $gkbvsbp = "msg";
+        $irwicx = "poin";
+        $ {
+            $gkbvsbp
+        } = $ {
+            $ {
+                "GLOBALS"
+            }
+            ["lweybhsv"]
+        }
+        ["message"];
+        $ {
+            "GLOBALS"
+        }
+        ["fcyejfkch"] = "msg";
+        $ {
+            "GLOBALS"
+        }
+        ["rsluyukwo"] = "msg";
+        $ {
+            $irwicx
+        } = $ {
+            $ {
+                "GLOBALS"
+            }
+            ["lweybhsv"]
+        }
+        ["task"]["reward_point"];
+        if ($ {
+            $ {
+                "GLOBALS"
+            }
+            ["fcyejfkch"]
+        } == "complete full") {
+            $ {
+                "GLOBALS"
+            }
+            ["bxuwgvwty"] = "msg";
+            $pcvyoknu = "t";
+            echo $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["mlhvfsqvhbk"]
+            } . "[-] " . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["bxuwgvwty"]
+            } . $ {
+                $pcvyoknu
+            };
+            break;
+        } elseif ($ {
+            $ {
+                "GLOBALS"
+            }
+            ["rsluyukwo"]
+        } == "task invalid") {
+            break;
+        } else {
+            $ {
+                "GLOBALS"
+            }
+            ["xqyylgilok"] = "ijo";
+            $ {
+                "GLOBALS"
+            }
+            ["lympckkkh"] = "t";
+            $ {
+                "GLOBALS"
+            }
+            ["ndgcsjg"] = "poin";
+            $ {
+                "GLOBALS"
+            }
+            ["sdfttrpjlx"] = "putih";
+            echo $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["xqyylgilok"]
+            } . "[-] success " . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["sdfttrpjlx"]
+            } . "| poin +" . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["zuupeplpj"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["ndgcsjg"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["lympckkkh"]
+            };
+        }
+    }
+    while (true) {
+        $ {
+            "GLOBALS"
+        }
+        ["nlsnvcutwymh"] = "msg";
+        $ {
+            "GLOBALS"
+        }
+        ["uxnoqacjeg"] = "msg";
+        $ {
+            "GLOBALS"
+        }
+        ["zdkwjj"] = "head";
+        $ {
+            "GLOBALS"
+        }
+        ["epwkmlmvep"] = "token";
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["lweybhsv"]
+        } = json_decode(milstone2($ {
+            $ {
+                "GLOBALS"
+            }
+            ["epwkmlmvep"]
+        }, $ {
+            $ {
+                "GLOBALS"
+            }
+            ["zdkwjj"]
+        }, $ {
+            $ {
+                "GLOBALS"
+            }
+            ["iweeglfe"]
+        }), true);
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["uxnoqacjeg"]
+        } = $ {
+            $ {
+                "GLOBALS"
+            }
+            ["lweybhsv"]
+        }
+        ["message"];
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["akqxqpixx"]
+        } = $ {
+            $ {
+                "GLOBALS"
+            }
+            ["lweybhsv"]
+        }
+        ["task"]["reward_point"];
+        $ {
+            "GLOBALS"
+        }
+        ["gwbkxr"] = "msg";
+        if ($ {
+            $ {
+                "GLOBALS"
+            }
+            ["nlsnvcutwymh"]
+        } == "complete full") {
+            $ {
+                "GLOBALS"
+            }
+            ["ukobrk"] = "t";
+            echo $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["mlhvfsqvhbk"]
+            } . "[-] " . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["mkiaed"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["ukobrk"]
+            };
+            break;
+        } elseif ($ {
+            $ {
+                "GLOBALS"
+            }
+            ["gwbkxr"]
+        } == "task invalid") {
+            break;
+        } else {
+            $tuptjjpmv = "poin";
+            $uxdmjvzu = "ijo";
+            $ {
+                "GLOBALS"
+            }
+            ["duinmkwuukv"] = "ijo";
+            $tshlhvvf = "putih";
+            $gypcyj = "t";
+            echo $ {
+                $uxdmjvzu
+            } . "[-] success " . $ {
+                $tshlhvvf
+            } . "| poin +" . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["duinmkwuukv"]
+            } . $ {
+                $tuptjjpmv
+            } . $ {
+                $gypcyj
+            };
+        }
+    }
+    while (true) {
+        $ {
+            "GLOBALS"
+        }
+        ["uhmekfagx"] = "head";
+        $fedyupo = "jsmilstone3";
+        $witueixayw = "msg";
+        $eslqoybcs = "js";
+        $ {
+            $eslqoybcs
+        } = json_decode(milstone3($ {
+            $ {
+                "GLOBALS"
+            }
+            ["flrpdukdcr"]
+        }, $ {
+            $ {
+                "GLOBALS"
+            }
+            ["uhmekfagx"]
+        }, $ {
+            $fedyupo
+        }), true);
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["mkiaed"]
+        } = $ {
+            $ {
+                "GLOBALS"
+            }
+            ["lweybhsv"]
+        }
+        ["message"];
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["akqxqpixx"]
+        } = $ {
+            $ {
+                "GLOBALS"
+            }
+            ["lweybhsv"]
+        }
+        ["task"]["reward_point"];
+        if ($ {
+            $ {
+                "GLOBALS"
+            }
+            ["mkiaed"]
+        } == "complete full") {
+            $dhnnoxqwxxvh = "msg";
+            echo $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["mlhvfsqvhbk"]
+            } . "[-] " . $ {
+                $dhnnoxqwxxvh
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["niczhiir"]
+            };
+            break;
+        } elseif ($ {
+            $witueixayw
+        } == "task invalid") {
+            break;
+        } elseif ($ {
+            $ {
+                "GLOBALS"
+            }
+            ["mkiaed"]
+        } == "can't complete in client") {
+            break;
+        } else {
+            $sxfvfdwgw = "putih";
+            $brwkgucbc = "ijo";
+            $ {
+                "GLOBALS"
+            }
+            ["ooeptp"] = "ijo";
+            echo $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["ooeptp"]
+            } . "[-] success " . $ {
+                $sxfvfdwgw
+            } . "| poin +" . $ {
+                $brwkgucbc
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["akqxqpixx"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["niczhiir"]
+            };
+        }
+    }
+}
+sleep(1);
+echo $ {
+    $ {
+        "GLOBALS"
+    }
+    ["qtqlqvxz"]
+} . "[•] open box" . $ {
+    $ {
+        "GLOBALS"
+    }
+    ["niczhiir"]
+};
+sleep(1);
+for ($ {
+    $psamojfi
+} = 0;$ {
+    $ {
+        "GLOBALS"
+    }
+    ["mwmsohiueyu"]
+} < $ {
+    $ {
+        "GLOBALS"
+    }
+    ["jfsosncjc"]
+};$ {
+    $ {
+        "GLOBALS"
+    }
+    ["sprmlcbtxo"]
+}
+++) {
+    $ {
+        "GLOBALS"
+    }
+    ["qstsyvme"] = "config";
+    $ucsoulh = "login";
+    $dekhpeobj = "nik";
+    $mfihmcvmy = "nik";
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["flrpdukdcr"]
+    } = $ {
+        $ {
+            "GLOBALS"
+        }
+        ["qstsyvme"]
+    }
+    [$ {
+        $ {
+            "GLOBALS"
+        }
+        ["mwmsohiueyu"]
+    }
+    ];
+    $sglfsgszgn = "t";
+    $ {
+        $ucsoulh
+    } = json_decode(login($ {
+        $ {
+            "GLOBALS"
+        }
+        ["flrpdukdcr"]
+    }, $ {
+        $ {
+            "GLOBALS"
+        }
+        ["jwvjlsowe"]
+    }), true);
+    $ {
+        $mfihmcvmy
+    } = $ {
+        $ {
+            "GLOBALS"
+        }
+        ["ppqgmwytr"]
+    }
+    ["user"]["nickname"];
+    echo $ {
+        $ {
+            "GLOBALS"
+        }
+        ["bfmephuwrq"]
+    } . "[•] " . $ {
+        $dekhpeobj
+    } . $ {
+        $sglfsgszgn
+    };
+    while (true) {
+        $mfduspsvjbvr = "jsbox";
+        $ {
+            "GLOBALS"
+        }
+        ["udyoquoycvc"] = "js";
+        $cdrxulqmymx = "token";
+        $ {
+            "GLOBALS"
+        }
+        ["ikrshoeuweo"] = "js";
+        $ {
+            "GLOBALS"
+        }
+        ["bdlvffr"] = "js";
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["bdlvffr"]
+        } = json_decode(box($ {
+            $cdrxulqmymx
+        }, $ {
+            $ {
+                "GLOBALS"
+            }
+            ["jwvjlsowe"]
+        }, $ {
+            $mfduspsvjbvr
+        }), true);
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["mreqlewgnex"]
+        } = $ {
+            $ {
+                "GLOBALS"
+            }
+            ["ikrshoeuweo"]
+        }
+        ["code"];
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["mkiaed"]
+        } = $ {
+            $ {
+                "GLOBALS"
+            }
+            ["udyoquoycvc"]
+        }
+        ["message"];
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["akqxqpixx"]
+        } = $ {
+            $ {
+                "GLOBALS"
+            }
+            ["lweybhsv"]
+        }
+        ["task"]["reward_point"];
+        if ($ {
+            $ {
+                "GLOBALS"
+            }
+            ["mreqlewgnex"]
+        } == "4040") {
+            $ {
+                "GLOBALS"
+            }
+            ["xormcgpk"] = "msg";
+            $ {
+                "GLOBALS"
+            }
+            ["vjeabrrgkjhy"] = "t";
+            echo $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["mlhvfsqvhbk"]
+            } . "[-] " . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["xormcgpk"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["vjeabrrgkjhy"]
+            };
+            break;
+        } else {
+            $ {
+                "GLOBALS"
+            }
+            ["fkhfzxcvs"] = "poin";
+            $vremnplh = "ijo";
+            echo $ {
+                $vremnplh
+            } . "[-] success " . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["ewoymbpit"]
+            } . "| poin +" . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["zuupeplpj"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["fkhfzxcvs"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["niczhiir"]
+            };
+        }
+    }
+}
+sleep(1);
+echo $ {
+    $ {
+        "GLOBALS"
+    }
+    ["qtqlqvxz"]
+} . "[•] watch ads" . $ {
+    $ {
+        "GLOBALS"
+    }
+    ["rcoidkxkhj"]
+};
+sleep(1);
+for ($ {
+    $ {
+        "GLOBALS"
+    }
+    ["mwmsohiueyu"]
+} = 0;$ {
+    $owtwpesdwu
+} < $ {
+    $ {
+        "GLOBALS"
+    }
+    ["jfsosncjc"]
+};$ {
+    $ {
+        "GLOBALS"
+    }
+    ["mwmsohiueyu"]
+}
+++) {
+    $cefhmgfi = "config";
+    $nltqwumjwym = "token";
+    $fpsvjt = "login";
+    $ {
+        "GLOBALS"
+    }
+    ["ofuksbvgwlj"] = "nik";
+    $thsgepdudt = "head";
+    $chnvjk = "nik";
+    $ {
+        "GLOBALS"
+    }
+    ["yqjigb"] = "i";
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["flrpdukdcr"]
+    } = $ {
+        $cefhmgfi
+    }
+    [$ {
+        $ {
+            "GLOBALS"
+        }
+        ["yqjigb"]
+    }
+    ];
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["ppqgmwytr"]
+    } = json_decode(login($ {
+        $nltqwumjwym
+    }, $ {
+        $thsgepdudt
+    }), true);
+    $ {
+        $chnvjk
+    } = $ {
+        $fpsvjt
+    }
+    ["user"]["nickname"];
+    echo $ {
+        $ {
+            "GLOBALS"
+        }
+        ["bfmephuwrq"]
+    } . "[•] " . $ {
+        $ {
+            "GLOBALS"
+        }
+        ["ofuksbvgwlj"]
+    } . $ {
+        $ {
+            "GLOBALS"
+        }
+        ["niczhiir"]
+    };
+    while (true) {
+        $ {
+            "GLOBALS"
+        }
+        ["rdstjuokm"] = "jsads";
+        $onduyjbm = "head";
+        $pefuzo = "token";
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["lweybhsv"]
+        } = json_decode(ads($ {
+            $pefuzo
+        }, $ {
+            $onduyjbm
+        }, $ {
+            $ {
+                "GLOBALS"
+            }
+            ["rdstjuokm"]
+        }), true);
+        $ {
+            "GLOBALS"
+        }
+        ["klxcivme"] = "js";
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["mreqlewgnex"]
+        } = $ {
+            $ {
+                "GLOBALS"
+            }
+            ["lweybhsv"]
+        }
+        ["code"];
+        $aixnpllsc = "code";
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["mkiaed"]
+        } = $ {
+            $ {
+                "GLOBALS"
+            }
+            ["klxcivme"]
+        }
+        ["message"];
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["akqxqpixx"]
+        } = $ {
+            $ {
+                "GLOBALS"
+            }
+            ["lweybhsv"]
+        }
+        ["task"]["reward_point"];
+        if ($ {
+            $aixnpllsc
+        } == "4040") {
+            $ {
+                "GLOBALS"
+            }
+            ["zhxhhymkli"] = "msg";
+            $vcqfsbjnozpe = "t";
+            echo $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["mlhvfsqvhbk"]
+            } . "[-] " . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["zhxhhymkli"]
+            } . $ {
+                $vcqfsbjnozpe
+            };
+            break;
+        } else {
+            $xxxnuoecm = "t";
+            $ {
+                "GLOBALS"
+            }
+            ["ycxgqdhnr"] = "putih";
+            echo $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["zuupeplpj"]
+            } . "[-] success " . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["ycxgqdhnr"]
+            } . "| poin +" . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["zuupeplpj"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["akqxqpixx"]
+            } . $ {
+                $xxxnuoecm
+            };
+        }
+    }
+}
+$ghsjqu = "akun";
+sleep(1);
+echo $ {
+    $ {
+        "GLOBALS"
+    }
+    ["gvgokmrfrp"]
+} . "[•] share video" . $ {
+    $ {
+        "GLOBALS"
+    }
+    ["niczhiir"]
+};
+sleep(1);
+for ($ {
+    $ {
+        "GLOBALS"
+    }
+    ["vthdbfi"]
+} = 0;$ {
+    $ {
+        "GLOBALS"
+    }
+    ["mwmsohiueyu"]
+} < $ {
+    $ {
+        "GLOBALS"
+    }
+    ["ufvuhiwxtbbj"]
+};$ {
+    $ {
+        "GLOBALS"
+    }
+    ["mwmsohiueyu"]
+}
+++) {
+    $kmfujkqsift = "login";
+    $gtgccpytz = "head";
+    $ {
+        "GLOBALS"
+    }
+    ["qdqsnvdifxe"] = "ijo";
+    $tgypmz = "login";
+    $ {
+        "GLOBALS"
+    }
+    ["eskumfuf"] = "login";
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["flrpdukdcr"]
+    } = $ {
+        $ {
+            "GLOBALS"
+        }
+        ["ccwyfzx"]
+    }
+    [$ {
+        $ {
+            "GLOBALS"
+        }
+        ["mwmsohiueyu"]
+    }
+    ];
+    $ejbwvrsfsol = "kuning";
+    $vgsrkfqfv = "uid";
+    $xcgjbmsny = "login";
+    $ {
+        $tgypmz
+    } = json_decode(login($ {
+        $ {
+            "GLOBALS"
+        }
+        ["flrpdukdcr"]
+    }, $ {
+        $gtgccpytz
+    }), true);
+    $xzoqtylg = "invite";
+    $ {
+        "GLOBALS"
+    }
+    ["qgudofeli"] = "biru";
+    $isydjuf = "x";
+    $xtjhldtm = "nik";
+    $ {
+        $xtjhldtm
+    } = $ {
+        $ {
+            "GLOBALS"
+        }
+        ["eskumfuf"]
+    }
+    ["user"]["nickname"];
+    echo $ {
+        $ {
+            "GLOBALS"
+        }
+        ["qgudofeli"]
+    } . "[•] " . $ {
+        $ {
+            "GLOBALS"
+        }
+        ["efanrdqbddde"]
+    } . $ {
+        $ {
+            "GLOBALS"
+        }
+        ["niczhiir"]
+    };
+    $hupkcpobxh = "t";
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["ppqgmwytr"]
+    } = json_decode(login($ {
+        $ {
+            "GLOBALS"
+        }
+        ["flrpdukdcr"]
+    }, $ {
+        $ {
+            "GLOBALS"
+        }
+        ["jwvjlsowe"]
+    }), true);
+    $ {
+        $vgsrkfqfv
+    } = $ {
+        $xcgjbmsny
+    }
+    ["user"]["user_id"];
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["efanrdqbddde"]
+    } = $ {
+        $kmfujkqsift
+    }
+    ["user"]["nickname"];
+    $ {
+        $xzoqtylg
+    } = $ {
+        $ {
+            "GLOBALS"
+        }
+        ["ppqgmwytr"]
+    }
+    ["user"]["invite_code"];
+    echo $ {
+        $ {
+            "GLOBALS"
+        }
+        ["qdqsnvdifxe"]
+    } . "[-] ";
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["kxjnvj"]
+    } = 0;
+    while ($ {
+        $isydjuf
+    } < 20) {
+        $ {
+            "GLOBALS"
+        }
+        ["kngxdp"] = "x";
+        $yjwogqhjd = "invite";
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["kngxdp"]
+        }
+        ++;
+        echo share($ {
+            $yjwogqhjd
+        }, $ {
+            $ {
+                "GLOBALS"
+            }
+            ["rmyhfvcr"]
+        });
+    }
+    echo $ {
+        $ {
+            "GLOBALS"
+        }
+        ["niczhiir"]
+    } . $ {
+        $ejbwvrsfsol
+    } . "[-] complete full" . $ {
+        $hupkcpobxh
+    };
+}
+sleep(1);
+echo $ {
+    $ {
+        "GLOBALS"
+    }
+    ["qtqlqvxz"]
+} . "[•] watch video" . $ {
+    $ {
+        "GLOBALS"
+    }
+    ["niczhiir"]
+};
+sleep(1);
+$ {
+    $ {
+        "GLOBALS"
+    }
+    ["sgwffbqt"]
+} = 0;
+for ($ {
+    $ {
+        "GLOBALS"
+    }
+    ["zobifyvmqil"]
+} = 0;$ {
+    $ {
+        "GLOBALS"
+    }
+    ["xqezyist"]
+} < $ {
+    $ghsjqu
+};$ {
+    $ {
+        "GLOBALS"
+    }
+    ["mwmsohiueyu"]
+}
+++) {
+    $oxhnnuusqbj = "login";
+    $xdfkmfssgu = "nik";
+    $ {
+        "GLOBALS"
+    }
+    ["wrqetkyilpa"] = "nik";
+    $ {
+        "GLOBALS"
+    }
+    ["rulnyrkndp"] = "i";
+    $sncqvfhitvu = "t";
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["flrpdukdcr"]
+    } = $ {
+        $ {
+            "GLOBALS"
+        }
+        ["ccwyfzx"]
+    }
+    [$ {
+        $ {
+            "GLOBALS"
+        }
+        ["rulnyrkndp"]
+    }
+    ];
+    $ {
+        "GLOBALS"
+    }
+    ["qusmekwyzf"] = "head";
+    $ {
+        "GLOBALS"
+    }
+    ["qijttwektyey"] = "x";
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["ppqgmwytr"]
+    } = json_decode(login($ {
+        $ {
+            "GLOBALS"
+        }
+        ["flrpdukdcr"]
+    }, $ {
+        $ {
+            "GLOBALS"
+        }
+        ["qusmekwyzf"]
+    }), true);
+    $ {
+        $xdfkmfssgu
+    } = $ {
+        $oxhnnuusqbj
+    }
+    ["user"]["nickname"];
+    echo $ {
+        $ {
+            "GLOBALS"
+        }
+        ["bfmephuwrq"]
+    } . "[•] " . $ {
+        $ {
+            "GLOBALS"
+        }
+        ["wrqetkyilpa"]
+    } . $ {
+        $sncqvfhitvu
+    };
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["qijttwektyey"]
+    }
+    ++;
+    while (true) {
+        $ {
+            "GLOBALS"
+        }
+        ["bkmlvcwc"] = "js";
+        $qucutvwp = "js";
+        $dumyhpxjwd = "msg";
+        $ {
+            "GLOBALS"
+        }
+        ["zlxvwkfnp"] = "head";
+        $iwdyjjv = "token";
+        $ucbxhfgkk = "msg";
+        $rcaejzt = "poin";
+        $ {
+            $qucutvwp
+        } = json_decode(video($ {
+            $iwdyjjv
+        }, $ {
+            $ {
+                "GLOBALS"
+            }
+            ["zlxvwkfnp"]
+        }, $ {
+            $ {
+                "GLOBALS"
+            }
+            ["tippmypkcnsk"]
+        }), true);
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["qdkgtlcvis"]
+        } = $ {
+            $ {
+                "GLOBALS"
+            }
+            ["lweybhsv"]
+        }
+        ["task"]["reward_point"];
+        $ {
+            "GLOBALS"
+        }
+        ["fjbrkgh"] = "js";
+        $ {
+            $rcaejzt
+        } = $ {
+            $ {
+                "GLOBALS"
+            }
+            ["fjbrkgh"]
+        }
+        ["point"]["current_point"];
+        $ {
+            $ucbxhfgkk
+        } = $ {
+            $ {
+                "GLOBALS"
+            }
+            ["bkmlvcwc"]
+        }
+        ["message"];
+        $ {
+            "GLOBALS"
+        }
+        ["dstxncqo"] = "msg";
+        if ($ {
+            $dumyhpxjwd
+        } == "complete full") {
+            $nihcogdumxd = "t";
+            $mpjsdpldknt = "kuning";
+            $wmvmgjo = "nik";
+            echo $ {
+                $mpjsdpldknt
+            } . "[" . $ {
+                $wmvmgjo
+            } . "] " . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["mkiaed"]
+            } . $ {
+                $nihcogdumxd
+            };
+            break;
+        } elseif ($ {
+            $ {
+                "GLOBALS"
+            }
+            ["dstxncqo"]
+        } == "task invalid") {
+            break;
+        } else {
+            $zhrejjmut = "t";
+            $ {
+                "GLOBALS"
+            }
+            ["lovpqyg"] = "putih";
+            $fjbgreln = "putih";
+            $ {
+                "GLOBALS"
+            }
+            ["yujzfcywo"] = "ijo";
+            echo $ {
+                $fjbgreln
+            } . "[" . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["yujzfcywo"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["efanrdqbddde"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["lovpqyg"]
+            } . "] reward + " . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["zuupeplpj"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["qdkgtlcvis"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["ewoymbpit"]
+            } . " | poin: " . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["zuupeplpj"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["akqxqpixx"]
+            } . $ {
+                $zhrejjmut
+            };
+        }
+        sleep($ {
+            $ {
+                "GLOBALS"
+            }
+            ["nhuosqbh"]
+        });
+    }
+}
+sleep(1);
+echo $ {
+    $ {
+        "GLOBALS"
+    }
+    ["qtqlqvxz"]
+} . "[•] watch vip video" . $ {
+    $ {
+        "GLOBALS"
+    }
+    ["niczhiir"]
+};
+sleep(1);
+$ {
+    $ {
+        "GLOBALS"
+    }
+    ["kxjnvj"]
+} = 0;
+for ($ {
+    $ {
+        "GLOBALS"
+    }
+    ["mwmsohiueyu"]
+} = 0;$ {
+    $ {
+        "GLOBALS"
+    }
+    ["mwmsohiueyu"]
+} < $ {
+    $ {
+        "GLOBALS"
+    }
+    ["jfsosncjc"]
+};$ {
+    $ {
+        "GLOBALS"
+    }
+    ["mwmsohiueyu"]
+}
+++) {
+    $ {
+        "GLOBALS"
+    }
+    ["smqjnnq"] = "token";
+    $kuoncmn = "i";
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["smqjnnq"]
+    } = $ {
+        $ {
+            "GLOBALS"
+        }
+        ["ccwyfzx"]
+    }
+    [$ {
+        $kuoncmn
+    }
+    ];
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["ppqgmwytr"]
+    } = json_decode(login($ {
+        $ {
+            "GLOBALS"
+        }
+        ["flrpdukdcr"]
+    }, $ {
+        $ {
+            "GLOBALS"
+        }
+        ["jwvjlsowe"]
+    }), true);
+    $ {
+        "GLOBALS"
+    }
+    ["kxokcyvdgmn"] = "x";
+    $xyghwxyb = "t";
+    $bmdsdpofsbxe = "nik";
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["efanrdqbddde"]
+    } = $ {
+        $ {
+            "GLOBALS"
+        }
+        ["ppqgmwytr"]
+    }
+    ["user"]["nickname"];
+    echo $ {
+        $ {
+            "GLOBALS"
+        }
+        ["bfmephuwrq"]
+    } . "[•] " . $ {
+        $bmdsdpofsbxe
+    } . $ {
+        $xyghwxyb
+    };
+    $ {
+        $ {
+            "GLOBALS"
+        }
+        ["kxokcyvdgmn"]
+    }
+    ++;
+    while (true) {
+        $hbeviywpxo = "jsvip";
+        $ {
+            "GLOBALS"
+        }
+        ["bfttmoxbrl"] = "reward";
+        $ezrucb = "js";
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["lweybhsv"]
+        } = json_decode(vip($ {
+            $ {
+                "GLOBALS"
+            }
+            ["flrpdukdcr"]
+        }, $ {
+            $ {
+                "GLOBALS"
+            }
+            ["jwvjlsowe"]
+        }, $ {
+            $hbeviywpxo
+        }), true);
+        $vsgpinjdg = "msg";
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["bfttmoxbrl"]
+        } = $ {
+            $ {
+                "GLOBALS"
+            }
+            ["lweybhsv"]
+        }
+        ["task"]["reward_point"];
+        $ {
+            "GLOBALS"
+        }
+        ["cbrzyasg"] = "js";
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["akqxqpixx"]
+        } = $ {
+            $ezrucb
+        }
+        ["point"]["current_point"];
+        $ {
+            $ {
+                "GLOBALS"
+            }
+            ["yyklgan"]
+        } = $ {
+            $ {
+                "GLOBALS"
+            }
+            ["cbrzyasg"]
+        }
+        ["point"]["vip_level"];
+        $ {
+            $vsgpinjdg
+        } = $ {
+            $ {
+                "GLOBALS"
+            }
+            ["lweybhsv"]
+        }
+        ["message"];
+        if ($ {
+            $ {
+                "GLOBALS"
+            }
+            ["mkiaed"]
+        } == "complete full") {
+            $ieeybqdbbc = "kuning";
+            $ {
+                "GLOBALS"
+            }
+            ["jfexvsl"] = "t";
+            $ {
+                "GLOBALS"
+            }
+            ["tmthsdtsa"] = "nik";
+            echo $ {
+                $ieeybqdbbc
+            } . "[" . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["tmthsdtsa"]
+            } . "] " . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["mkiaed"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["jfexvsl"]
+            };
+            break;
+        } elseif ($ {
+            $ {
+                "GLOBALS"
+            }
+            ["mkiaed"]
+        } == "task invalid") {
+            break;
+        } else {
+            $ {
+                "GLOBALS"
+            }
+            ["ojpkemsngki"] = "ijo";
+            $wteolhcvyvsk = "level";
+            $ {
+                "GLOBALS"
+            }
+            ["xfhxdkefqp"] = "nik";
+            $vpyxahonxsn = "putih";
+            $ {
+                "GLOBALS"
+            }
+            ["rcgfcwefmds"] = "ijo";
+            $ {
+                "GLOBALS"
+            }
+            ["gpluckuet"] = "putih";
+            $ {
+                "GLOBALS"
+            }
+            ["rvgefkxq"] = "t";
+            $tcjogebtmwi = "putih";
+            echo $ {
+                $tcjogebtmwi
+            } . "[" . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["ojpkemsngki"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["xfhxdkefqp"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["gpluckuet"]
+            } . "] reward + " . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["rcgfcwefmds"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["qdkgtlcvis"]
+            } . $ {
+                $vpyxahonxsn
+            } . " | poin: " . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["zuupeplpj"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["akqxqpixx"]
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["ewoymbpit"]
+            } . " | vip: " . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["zuupeplpj"]
+            } . $ {
+                $wteolhcvyvsk
+            } . $ {
+                $ {
+                    "GLOBALS"
+                }
+                ["rvgefkxq"]
+            };
+        }
+        sleep($ {
+            $ {
+                "GLOBALS"
+            }
+            ["nhuosqbh"]
+        });
+    }
+}
+sleep(1);
 ?>
