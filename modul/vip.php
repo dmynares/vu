@@ -5,7 +5,7 @@
 $ {
     "GLOBALS"
 }
-["bstfcj"] = "biru";
+["bstfcj"] = "blue";
 $ {
     "GLOBALS"
 }
@@ -57,7 +57,7 @@ $ {
 $ {
     "GLOBALS"
 }
-["hqkbnckf"] = "kuning";
+["hqkbnckf"] = "yellow";
 $ {
     "GLOBALS"
 }
@@ -69,7 +69,7 @@ $ {
 $ {
     "GLOBALS"
 }
-["lcsvnheqm"] = "putih";
+["lcsvnheqm"] = "white";
 $ {
     "GLOBALS"
 }
@@ -84,8 +84,8 @@ $ {
 $ {
     "GLOBALS"
 }
-["wboqtnwiahh"] = "biru";
-date_default_timezone_set("Asia/Jakarta");
+["wboqtnwiahh"] = "blue";
+date_default_timezone_set("Asia/Philippines");
 $ {
     "GLOBALS"
 }
@@ -112,7 +112,7 @@ $ {
     ["wboqtnwiahh"]
 } = "[1;34m";
 $qpdqrgmlrvm = "link";
-$odlkhcvrs = "kuning";
+$odlkhcvrs = "yellow";
 $ {
     "GLOBALS"
 }
@@ -164,7 +164,7 @@ $ {
         "GLOBALS"
     }
     ["ucnmjudzaxt"]
-} = ["locale" => "in_ID", "task_extra_info" => "", "task_name" => "vip_watch_video_ball_01", "timezone" => "GMT+07:00"];
+} = ["locale" => "en_PH", "task_extra_info" => "", "task_name" => "vip_watch_video_ball_01", "timezone" => "GMT+08:00"];
 $ {
     $ {
         "GLOBALS"
@@ -202,7 +202,7 @@ echo $ {
         "GLOBALS"
     }
     ["lcsvnheqm"]
-} . "VIP Auto Watch Video V4.0 By PHC moondrei" . $ {
+} . "VIP Auto Watch Video V4.0" . $ {
     $ {
         "GLOBALS"
     }
@@ -416,11 +416,11 @@ while (true) {
         $ {
             "GLOBALS"
         }
-        ["kyflxjedlub"] = "putih";
+        ["kyflxjedlub"] = "white";
         $ {
             "GLOBALS"
         }
-        ["omvjvobnhvpd"] = "putih";
+        ["omvjvobnhvpd"] = "white";
         $rhtsycjtf = "red";
         echo $ {
             $rhtsycjtf
@@ -429,7 +429,7 @@ while (true) {
                 "GLOBALS"
             }
             ["kyflxjedlub"]
-        } . "Sebaiknya Anda Menonton Minimal 5 Video Melalui Aplikasi Veeu Untuk Menghindari Banned: " . $ {
+        } . "You'd better watch a minimum of 5 videos through the Veeu application to avoid being banned: " . $ {
             $ {
                 "GLOBALS"
             }
@@ -466,7 +466,7 @@ while (true) {
             "GLOBALS"
         }
         ["oirucvy"] = "tpoin";
-        $ngunhmldo = "putih";
+        $ngunhmldo = "white";
         $ {
             "GLOBALS"
         }
@@ -478,11 +478,11 @@ while (true) {
         $ {
             "GLOBALS"
         }
-        ["umcknbo"] = "putih";
+        ["umcknbo"] = "white";
         echo $ {
             $ngunhmldo
         } . "
-====P=H=C=m=o==o=n=d=r=e=i=====================
+=========================
 ➡️Video Reward: " . $ {
             $iputyyqgc
         } . $ {
