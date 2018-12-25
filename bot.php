@@ -131,7 +131,7 @@ $ {
 $ {
     "GLOBALS"
 }
-["xsbepanksk"] = "putih";
+["xsbepanksk"] = "white";
 $ {
     "GLOBALS"
 }
@@ -143,7 +143,7 @@ $ {
 $ {
     "GLOBALS"
 }
-["ktcmrjpgg"] = "kuning";
+["ktcmrjpgg"] = "yellow";
 $cwilbt = "pinfo";
 $ {
     "GLOBALS"
@@ -156,7 +156,7 @@ $ {
 $ {
     "GLOBALS"
 }
-["ulllnbw"] = "biru";
+["ulllnbw"] = "blue";
 $yhxbrunnkluc = "t";
 $ {
     "GLOBALS"
@@ -176,11 +176,11 @@ $vdsvvt = "pink";
 $ {
     "GLOBALS"
 }
-["lleqoojpla"] = "putih";
+["lleqoojpla"] = "white";
 $ {
     "GLOBALS"
 }
-["axuccgfd"] = "putih";
+["axuccgfd"] = "white";
 $ {
     "GLOBALS"
 }
@@ -287,7 +287,7 @@ echo $ {
         "GLOBALS"
     }
     ["xsbepanksk"]
-} . "Publisher: PHC moondrei | Code Invite: H7LIMC" . $ {
+} . "Publisher:  | Code Invite: " . $ {
     $ {
         "GLOBALS"
     }
@@ -311,7 +311,7 @@ $ {
         "GLOBALS"
     }
     ["lyxopjxorfi"]
-} = array("locale" => "in_ID", "task_extra_info" => "", "task_name" => "watch_video_ball_01", "timezone" => "GMT+07:00");
+} = array("locale" => "en_PH", "task_extra_info" => "", "task_name" => "watch_video_ball_01", "timezone" => "GMT+08:00");
 $ {
     $bvudghjcjxg
 } = json_encode($ {
@@ -363,13 +363,13 @@ $dqiuymijdwk = "result";
 "Accept-Encoding: gzip";
 "User-Agent: okhttp/3.10.0";
 require ("config.php");
-$lktutag = "putih";
+$lktutag = "white";
 echo $ {
     $ {
         "GLOBALS"
     }
     ["ktcm\xhi 72jpgg"]
-} . "[>]$putih Entering Tool for Veeu Bot\n";
+} . "[>]$white Entering Tool for Veeu Bot\n";
 sleep(1);
 $ {
     $ {
@@ -498,7 +498,7 @@ if ($ {
         "GLOBALS"
     }
     ["dpfdrlvlp"] = "ijo";
-    $istmnyuui = "putih";
+    $istmnyuui = "white";
     $tkwwmqdmbj = "user";
     echo $ {
         $ {
@@ -530,7 +530,7 @@ if ($ {
             "GLOBALS"
         }
         ["xsbepanksk"]
-    } . "\n➡ ➡ Email: $biru" . $ {
+    } . "\n➡ ➡ Email: $blue" . $ {
         $ {
             "GLOBALS"
         }
@@ -540,11 +540,11 @@ if ($ {
     $ {
         "GLOBALS"
     }
-    ["mhermp"] = "kuning";
+    ["mhermp"] = "yellow";
     $ {
         "GLOBALS"
     }
-    ["gdeacscico"] = "putih";
+    ["gdeacscico"] = "white";
     $ {
         "GLOBALS"
     }
@@ -554,12 +554,12 @@ if ($ {
             "GLOBALS"
         }
         ["xsbepanksk"]
-    } . "Koneksi : " . $ {
+    } . "Connection : " . $ {
         $ {
             "GLOBALS"
         }
         ["bseinyhrik"]
-    } . "Gagal !!!" . $ {
+    } . "Failed !!!" . $ {
         $ {
             "GLOBALS"
         }
@@ -569,7 +569,7 @@ if ($ {
             "GLOBALS"
         }
         ["gdeacscico"]
-    } . "Kesalahan : " . $ {
+    } . "Error : " . $ {
         $ {
             "GLOBALS"
         }
@@ -595,7 +595,7 @@ $ {
         "GLOBALS"
     }
     ["dfwqhrn"]
-} . "&timezone=GMT%2B07%3A00&locale=in_ID";
+} . "&timezone=GMT%2B08%3A00&locale=en_PH";
 curl_setopt($ {
     $ {
         "GLOBALS"
@@ -750,17 +750,17 @@ if ($ {
     ["wxuhwnckmeb"]
 } == "Y") {
     sleep(1);
-    $oyhdvkfdngxc = "kuning";
+    $oyhdvkfdngxc = "yellow";
     echo $ {
         $ {
             "GLOBALS"
         }
         ["ktcmrjpgg"]
-    } . "[>] $putih processing Data!!!\n";
+    } . "[>] $white processing Data!!!\n";
     sleep(1);
     echo $ {
         $oyhdvkfdngxc
-    } . "[>] $putih Running Bot...\n";
+    } . "[>] $white Running Bot...\n";
     sleep(1);
 } else {
     echo $ {
@@ -773,7 +773,7 @@ if ($ {
             "GLOBALS"
         }
         ["xsbepanksk"]
-    } . "Bermain Jujur Adalah Keputusan Yang Bijak !!!\n";
+    } . "Playing Honest Is A Wise Decision !!!\n";
     exit;
 }
 require __DIR__ . "/modul/modules";
@@ -949,9 +949,9 @@ while (true) {
                 "GLOBALS"
             }
             ["sokrznmnyj"]
-        } . "[!] $putih Lanjut Lagi Besok:$red " . $ {
+        } . "[!] $white Continue Again Tomorrow:$red " . $ {
             $grfoplfvarq
-        } . "$putih\n";
+        } . "$white\n";
         sleep(1);
         break;
     } elseif ($ {
@@ -961,7 +961,7 @@ while (true) {
     } elseif ($ {
         $olqriznbhdv
     } == "200") {
-        $vlowgv = "putih";
+        $vlowgv = "white";
         $sbtayckumasd = "t
 
 poin";
@@ -969,12 +969,12 @@ poin";
         $ {
             "GLOBALS"
         }
-        ["whldiagex"] = "putih";
+        ["whldiagex"] = "white";
         $jukwmtevt = "cpoin";
-        $dceovdhc = "kuning";
+        $dceovdhc = "yellow";
         echo $ {
             $dceovdhc
-        } . "[>] $ijo Success $putih| Nama Akun: $biru" . $ {
+        } . "[>] $ijo Success $white| Account name: $blue" . $ {
             $ {
                 "GLOBALS"
             }
@@ -984,7 +984,7 @@ poin";
                 "GLOBALS"
             }
             ["rppwle"]
-        } . " | Coin Yang Diperoleh: " . $ {
+        } . " | Coin Obtained: " . $ {
             $ {
                 "GLOBALS"
             }
@@ -998,7 +998,7 @@ poin";
             ["zwllmooqrysu"]
         } . "\n[!] " . $ {
             $pjevobmicvy
-        } . "Coin Yang Diperoleh: " . $ {
+        } . "Coin Obtained: " . $ {
             $vlowgv
         } . $ {
             $ {
@@ -1015,7 +1015,7 @@ poin";
                 "GLOBALS"
             }
             ["rppwle"]
-        } . "Coin Yang Diperoleh: " . $ {
+        } . "Coin Obtained: " . $ {
             $ {
                 "GLOBALS"
             }
