@@ -6,7 +6,7 @@ $ihpjwuoirqs = "t";
 $ {
     "GLOBALS"
 }
-["ijaiyunogm"] = "putih";
+["ijaiyunogm"] = "white";
 $ {
     "GLOBALS"
 }
@@ -164,7 +164,7 @@ $ {
 $ {
     "GLOBALS"
 }
-["wtdnvsmcj"] = "putih";
+["wtdnvsmcj"] = "white";
 $ {
     $bgpwtrnusw
 } = json_encode($ {
@@ -291,7 +291,7 @@ while (true) {
             "GLOBALS"
         }
         ["tmmvrurjw"] = "red";
-        $kshqunwev = "putih";
+        $kshqunwev = "white";
         echo $ {
             $ {
                 "GLOBALS"
@@ -299,7 +299,7 @@ while (true) {
             ["naiqrqvfbkr"]
         } . " " . $ {
             $kshqunwev
-        } . "[!] Absen Harian: " . $ {
+        } . "[!] Daily Absence: " . $ {
             $ {
                 "GLOBALS"
             }
@@ -327,13 +327,13 @@ while (true) {
                 "GLOBALS"
             }
             ["sxldqb"]
-        } . "[>]  $putih" . $ {
+        } . "[>]  $white" . $ {
             $ {
                 "GLOBALS"
             }
             ["euqreqk"]
         }
-        ["task"]["task_type"] . " $turkis| Coin: $putih" . $ {
+        ["task"]["task_type"] . " $turkis| Coin: $white" . $ {
             $ {
                 "GLOBALS"
             }
@@ -403,11 +403,11 @@ while (true) {
         }
         ["yfrgyecsiab"]
     }
-    ["message"] == "complete full") {
+    ["message"] == "Completed") {
         $camihmuysxs = "red";
         echo $ {
             $camihmuysxs
-        } . "[!] $putih Reward Iklan: $red" . $ {
+        } . "[!] $white Reward Iklan: $red" . $ {
             $ {
                 "GLOBALS"
             }
@@ -438,13 +438,13 @@ while (true) {
                 "GLOBALS"
             }
             ["vgkuibvhhgw"]
-        } . "[>]  $putih" . $ {
+        } . "[>]  $white" . $ {
             $ {
                 "GLOBALS"
             }
             ["yfrgyecsiab"]
         }
-        ["task"]["display_name"] . " $turkis| Coin: $putih" . $ {
+        ["task"]["display_name"] . " $turkis| Coin: $white" . $ {
             $ {
                 "GLOBALS"
             }
@@ -528,7 +528,7 @@ while (true) {
                 "GLOBALS"
             }
             ["yupojiqgnm"]
-        } . "[!] $putih Nonton Video: $red" . $ {
+        } . "[!] $white Nonton Video: $red" . $ {
             $ {
                 "GLOBALS"
             }
@@ -559,13 +559,13 @@ while (true) {
                 "GLOBALS"
             }
             ["npxtyonu"]
-        } . "[>]  $putih" . $ {
+        } . "[>]  $white" . $ {
             $ {
                 "GLOBALS"
             }
             ["qmfwpepfibz"]
         }
-        ["task"]["display_name"] . " $turkis| Coin: $putih" . $ {
+        ["task"]["display_name"] . " $turkis| Coin: $white" . $ {
             $ {
                 "GLOBALS"
             }
@@ -656,7 +656,7 @@ while (true) {
                 "GLOBALS"
             }
             ["ltlezst"]
-        } . "[!] $putih Treasure Box: $red" . $ {
+        } . "[!] $white Treasure Box: $red" . $ {
             $ouydsgxgrsw
         }
         ["message"] . "\n";
@@ -676,13 +676,13 @@ while (true) {
                 "GLOBALS"
             }
             ["zlofkcf"]
-        } . "[>]  $putih" . $ {
+        } . "[>]  $white" . $ {
             $ {
                 "GLOBALS"
             }
             ["wweinyo"]
         }
-        ["task"]["task_type"] . " $turkis|Coin: $putih" . $ {
+        ["task"]["task_type"] . " $turkis|Coin: $white" . $ {
             $ {
                 "GLOBALS"
             }
@@ -828,16 +828,16 @@ while ($ {
         $ {
             "GLOBALS"
         }
-        ["sijjsr"] = "putih";
+        ["sijjsr"] = "white";
         $ {
             "GLOBALS"
         }
-        ["mdnftsr"] = "putih";
+        ["mdnftsr"] = "white";
         $ {
             "GLOBALS"
         }
         ["qwggygqqli"] = "ijo";
-        $ntcafeflbldb = "putih";
+        $ntcafeflbldb = "white";
         $ {
             "GLOBALS"
         }
@@ -883,7 +883,7 @@ while ($ {
             ["prgmuhchem"]
         };
     } else {
-        $ycwootlnti = "kuning";
+        $ycwootlnti = "yellow";
         $ {
             "GLOBALS"
         }
@@ -893,7 +893,7 @@ while ($ {
                 "GLOBALS"
             }
             ["naiqrqvfbkr"]
-        } . "Gagal ! | " . $ {
+        } . "Failed ! | " . $ {
             $ {
                 "GLOBALS"
             }
