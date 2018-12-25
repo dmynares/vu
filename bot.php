@@ -1,5 +1,3 @@
-/* Decoded by unphp.net */
-
 <?php $ {
     "GLOBALS"
 }
